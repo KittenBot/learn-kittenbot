@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'User-Friendly Programming Interface',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Kittenbot comes with an intuitive drag-and-drop interface, making it easy for kids and beginners to start programming without any prior experience. Dive into the world of coding with fun, interactive lessons and challenges!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Expandable Modules and Components',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Unlock endless possibilities with Kittenbot's modular design. Whether you're looking to add sensors, motors, or other innovative components, Kittenbot grows with your imagination and creativity.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Durable and Safe Design',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Safety first! Kittenbot is designed with durable materials and features to ensure longevity, while also prioritizing the safety of its young users. Rounded edges, battery protection, and eco-friendly materials make it a top choice for parents and educators.
       </>
     ),
   },
