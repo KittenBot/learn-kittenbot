@@ -75,7 +75,7 @@ Tx P2 / Rx P12
 **Programming Environments Supported by Meowbit**
 
 - [**Makecode Arcade Game-Based Programming**](./arcade)
-- [**MicroPython API**](./micropy-api)
+<!-- - [**MicroPython API**](./micropy-api) -->
 
 # Troubleshooting
 

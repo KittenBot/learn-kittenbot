@@ -8,7 +8,7 @@ sidebar_position: 3
 #### Q1: Why can't I find the serial port after switching to microPython mode on Meowbit?
 > This issue usually occurs if you're using a stripped-down version of your operating system lacking essential system files. Therefore, some device drivers may not install automatically. Here are two possible solutions:
 > 
-> **Method 1: Simple Manual Installation**
+> **Install Driver inf**
 > 1. Locate the driver installation file in the PYBFLASH drive.
 > ![image.png](1600226833846-9de2c3a9-285d-4c8e-9659-cac3501d5c9b.png)
 
@@ -20,12 +20,6 @@ sidebar_position: 3
 > 4. If successful, you'll see the new serial device without a warning sign in the Device Manager.
 > ![](1600227305499-7da1b21b-c183-4a66-adfd-96aef8382020.png)
 > 
-> **Method 2: Missing System Files**
-> If you encounter error codes after completing step 3 in Method 1, you may need to install additional files.
-> - Code 52: Digital Signature Issue
-> - Error Codes 28, 10: Missing Files
-> 
-> [Download reserve-driver-install.zip](link)
 > 
 > Unzip the file and run the .exe installer. Allow all permissions if prompted. Once the black window disappears, the patch is successfully installed. Try using your device again.
 > 
