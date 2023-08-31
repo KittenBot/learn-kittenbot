@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'User-Friendly Programming Interface',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/UserFriendly_Programming_Interface.svg').default,
     description: (
       <>
         Kittenbot comes with an intuitive drag-and-drop interface, making it easy for kids and beginners to start programming without any prior experience. Dive into the world of coding with fun, interactive lessons and challenges!
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Expandable Modules and Components',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/Expandable_Modules_and_Components.svg').default,
     description: (
       <>
         Unlock endless possibilities with Kittenbot's modular design. Whether you're looking to add sensors, motors, or other innovative components, Kittenbot grows with your imagination and creativity.
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Durable and Safe Design',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/Durable_and_Safe_Design.svg').default,
     description: (
       <>
         Safety first! Kittenbot is designed with durable materials and features to ensure longevity, while also prioritizing the safety of its young users. Rounded edges, battery protection, and eco-friendly materials make it a top choice for parents and educators.
