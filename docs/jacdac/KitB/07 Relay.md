@@ -1,13 +1,22 @@
 ## Module Introduction
 
-![image.png](1689309104691-0e618750-0b89-4a12-966d-d2091c9182a0.png)
+![image.png](https://learn.kittenbot.cn/2023md_pic/202309081202928.png)
+
+
 
 1. Jacdac Interface
+
 2. Jacdac Communication Indicator
-3. Boot Button
-4. Product QR Code
-5. Jacdac Standard Through Hole
-6. Servo Connector
+
+3. Relay
+
+4. Terminal Block
+
+5. Product QR Code
+
+6. Jacdac Standard Through Hole
+
+   
 
 ## Components used
 
@@ -15,18 +24,18 @@
 - 1x MicrobitV2
 - 1x Jacdaptor
 - 1x Cable
-- 1x Servo
+- 1x Relay
 
 ## Connection
 
-PC-〉MicroUSB -〉MicrobitV2-〉Jacdaptor-〉Cable--〉Servo
+PC-〉MicroUSB -〉MicrobitV2-〉Jacdaptor-〉Cable--〉Relay
 
-![image.png](1689237710160-dbc602b8-655f-4f4c-99e7-d0e63f59301c.png)
+![image-20230908121321973](https://learn.kittenbot.cn/2023md_pic/202309081213211.png)
 
 
 ## Coding Platform
 
-[https://makecode.microbit.org/](https://makecode.microbit.org/beta)
+[Microsoft MakeCode for micro:bit (microbit.org)](https://makecode.microbit.org/beta)
 
 ## Create a new project
 
@@ -40,21 +49,23 @@ Extensions——Jacdac
 
 ![jacdac扩展.png](1654764679183-85a74500-61e1-45f0-a497-a97afe749b58.png)
 
-## Add Jacdac Servo Block
+## Add Jacdac Relay Block
 
-![image.png](1689238246946-8f8b7b25-a2f9-4c53-ac8c-c452eccde575.png)
+![image.png](https://learn.kittenbot.cn/2023md_pic/202309081217534.png)
 
 ## Program and download
 
-![image.png](1689240054397-6468040d-a0c1-497a-9752-a1e4c92fd381.png)
+![image.png](https://learn.kittenbot.cn/2023md_pic/202309081218780.png)
 
 ## The Result
 
-按AB按键控制舵机转动到不同角度
+Press A to switch on the relay
 
-![cad9767f386535f5433c5af166f83ff8.jpg](1689240426382-68bb4dad-10ad-4647-9c6e-2224060e7716.jpeg)
+![image.png](https://learn.kittenbot.cn/2023md_pic/202309081218550.png)
 
-![4fbdd83e2799a09ffb8fa6e1f12c9fb0.jpg](1689240446273-ac51422f-63dc-4664-96b1-91a63d710b8b.jpeg)
+Press B to switch off the relay
+
+![image.png](https://learn.kittenbot.cn/2023md_pic/202309081218467.png)
 
 ## Notice
 
