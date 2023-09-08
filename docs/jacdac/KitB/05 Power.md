@@ -2,7 +2,7 @@
 
 ![image.png](1689244177802-66d6178c-35b5-427c-9b17-19a3cb9168f1.png)
 
-1. Jacdac Interface
+1. Jacdac Edge Connector
 2. Jacdac Communication Indicator
 3. Battery Connector
 4. Charging Indicator (Flashing when charging, always on when full)

@@ -4,7 +4,7 @@
 
 
 
-1. Jacdac Interface
+1. Jacdac Edge Connector
 
 2. Jacdac Communication Indicator
 
@@ -70,5 +70,5 @@ Press B to switch off the relay
 ## Notice
 
 - Please use with caution when using the Relay module, as the Relay module is a high-power module
-- The maximum external voltage of the Relay is 30V
+- The maximum external voltage of the Relay is 5V
 - The maximum external current of the Relay is 1A

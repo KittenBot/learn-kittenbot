@@ -2,10 +2,10 @@
 
 ![image.png](1689418869378-d9d6d0b4-c509-490b-947f-91f58824ebfc.png)
 
-1. Jacdac Interface
+1. Jacdac Edge Connector
 2. Jacdac Communication Indicator
 3. Boot Button
-4. RGB Strip Connector
+4. RGB Strip Connector(WS2812)
 5. QR Code
 6. Jacdac Standard Through Hole
 
@@ -19,11 +19,11 @@
 
 ## Connection
 
-PC-〉MicroUSB -〉MicrobitV2-〉Jacdaptor-〉Cable--〉RGB Strip
+PC-〉MicroUSB -〉MicrobitV2-〉Jacdaptor-〉Cable-〉RGB Strip
 
 ## Coding Platform
 
-[https://makecode.microbit.org/](https://makecode.microbit.org/beta)
+[Microsoft MakeCode for micro:bit (microbit.org)](https://makecode.microbit.org/beta)
 
 ## Create a new project
 
@@ -43,7 +43,7 @@ Extensions——Jacdac
 
 ## Program and download
 
-![image.png](1689419520709-021412df-ae25-47bc-8a0a-08cf8200f9bc.png)
+![image-20230908135420892](https://learn.kittenbot.cn/2023md_pic/202309081354019.png)
 
 ## The Result
 

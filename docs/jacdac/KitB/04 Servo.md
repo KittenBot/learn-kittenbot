@@ -2,7 +2,7 @@
 
 ![image.png](1689241002489-622156e8-9097-4127-b1ba-7980c6c8f755.png)
 
-1. Jacdac Interface
+1. Jacdac Edge Connector
 2. Jacdac Communication Indicator
 3. Boot Button
 4. Product QR Code
@@ -25,7 +25,7 @@ PC-〉MicroUSB -〉MicrobitV2-〉Jacdaptor-〉Cable--〉Servo
 
 ## Coding Platform
 
-[https://makecode.microbit.org/](https://makecode.microbit.org/beta)
+https://makecode.microbit.org/beta
 
 ## Create a new project
 
@@ -60,3 +60,6 @@ Press AB to control the servo to rotate to different angles
 
 ### Why is the servo not moving?
 > The servo needs to be used with the jacdac power module
+
+### What current servo can it drive?
+> 1A in total

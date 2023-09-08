@@ -3,7 +3,7 @@
 
 ![image.png](1689161788406-c91955c9-cda2-46a7-a11b-8af0bac9b6c4.png)
 
-1. Jacdac Interface
+1. Jacdac Edge Connector
 2. Jacdac Communication Indicator
 3. Boot Button
 4. Product QR Code
@@ -21,10 +21,12 @@
 
 PC-〉MicroUSB -〉MicrobitV2-〉Jacdaptor-〉Cable--〉Accelerometer
 
+![image-20230908122602638](https://learn.kittenbot.cn/2023md_pic/202309081226947.png)
+
 
 ## Coding Platform
 
-[https://makecode.microbit.org/](https://makecode.microbit.org/beta)
+[Microsoft MakeCode for micro:bit (microbit.org)](https://makecode.microbit.org/beta)
 
 ## Create a new project
 

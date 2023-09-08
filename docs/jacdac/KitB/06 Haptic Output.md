@@ -2,7 +2,7 @@
 
 ![image.png](1689309104691-0e618750-0b89-4a12-966d-d2091c9182a0.png)
 
-1. Jacdac Interface
+1. Jacdac Edge Connector
 2. Jacdac Communication Indicator
 3. Haptic Motor
 4. Product QR Code
@@ -24,7 +24,7 @@ PC-〉MicroUSB -〉MicrobitV2-〉Jacdaptor-〉Cable--〉Haptic Output
 
 ## Coding Platform
 
-[https://makecode.microbit.org/](https://makecode.microbit.org/beta)
+https://makecode.microbit.org/beta
 
 ## Create a new project
 
@@ -56,3 +56,8 @@ Press AB to trigger vibration
 
 ### Why does the haptic output module not vibrate?
 > Please turn the vibration intensity or vibration duration to a larger value
+
+
+### Why is the vibrate pattern setting not responding?
+> The vibrate pattern only supports a maximum of 6 characters.
+

@@ -2,13 +2,13 @@
 
 ![image.png](1689324674422-dd04111f-ace9-4862-acd1-c415bb5577bf.png)
 
-1. Jacdac Interface
+1. Jacdac Edge Connector
 2. Jacdac Communication Indicator
 3. Ultrasonic Sensor
 4. Jacdac Standard Through Hole
 5. QR Code
 
-> The distance range of the ultrasonic sensor is 3cm-400cm, and the accuracy is ±1cm. The ultrasonic sensor is used to measure the distance of the object. The ultrasonic sensor emits ultrasonic waves and receives the reflected waves from the object. The distance between the sensor and the object can be calculated by measuring the time interval between the emission and reception of the ultrasonic waves.
+> The distance range of the ultrasonic sensor is 3cm-350cm, and the accuracy is ±1cm. The ultrasonic sensor is used to measure the distance of the object. The ultrasonic sensor emits ultrasonic waves and receives the reflected waves from the object. The distance between the sensor and the object can be calculated by measuring the time interval between the emission and reception of the ultrasonic waves.
 
 ## Components used
 
@@ -26,7 +26,7 @@ PC-〉MicroUSB -〉MicrobitV2-〉Jacdaptor-〉Cable--〉Ultrasonic
 
 ## Coding Platform
 
-[https://makecode.microbit.org/](https://makecode.microbit.org/beta)
+https://makecode.microbit.org/beta
 
 ## Create a new project
 
@@ -50,6 +50,6 @@ Extensions——Jacdac
 
 ## The Result
 
-Microbit Will feedback the ultrasonic distance value
+Microbit will feedback the ultrasonic distance value
 ![image.png](1689326633090-5c1298b7-ed98-4ed3-8683-58f8c704114b.png)
 
