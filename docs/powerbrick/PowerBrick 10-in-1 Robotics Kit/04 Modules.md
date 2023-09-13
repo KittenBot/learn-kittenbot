@@ -1,0 +1,16 @@
+## Information about modules included with the PowerBrick 10-in-1 Robotics Kit.
+
+Armourbit
+PowerBrickPowerBank
+PowerBrickEnvironment
+PowerBrickSoil
+PowerBrickDroplet
+PowerBrickUltraSound
+PowerBrickLineTrace
+PowerBrickBumpers
+PowerBrickColorGesture
+PowerBrickRFID
+PowerBrickRGB
+PowerBrickMP3
+PowerBrickMotor
+PowerBrickServo

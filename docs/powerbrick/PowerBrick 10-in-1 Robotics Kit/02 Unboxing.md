@@ -1,5 +1,3 @@
-# PowerBrick Unboxing and Introduction Video
-
 ## Unboxing
 
 [![](./images/unbox.png)](https://www.youtube.com/watch?v=jl-mkDHETU0)
