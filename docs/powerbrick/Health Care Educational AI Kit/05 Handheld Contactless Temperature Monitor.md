@@ -1,5 +1,3 @@
-# Handheld Contactless Temperature Monitor
-
 Ensuring the visitors do not possess symptoms such as fever is key part in anti-pandemic effort, this model simulates a contactless handheld temperature sensor.
 
 ![](./images/tempgun.png)

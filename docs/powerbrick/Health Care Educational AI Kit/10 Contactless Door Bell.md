@@ -1,5 +1,3 @@
-# Contactless Door Bell
-
 Touching public facilities is something that should be avoided during a pandemic. This model simulates a contactless door bell.
 
 ![](./images/bell.png)

@@ -1,7 +1,4 @@
-Health Care Educational AI Kit Modules
-==========================================
-
-Information about modules included with the Health Care Educational AI Kit.
+## Information about modules included with the Health Care Educational AI Kit.
 
 Armourbit
 

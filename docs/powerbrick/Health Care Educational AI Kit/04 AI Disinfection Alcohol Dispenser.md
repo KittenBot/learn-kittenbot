@@ -1,5 +1,3 @@
-# AI Disinfection Alcohol Dispenser
-
 Hand Sanitation is one of the most important parts of anti-pandemic practices, this model simulates an automatic hand wash dispenser.
 
 ![](./images/wash.png)

@@ -1,5 +1,3 @@
-# Mask Detector
-
 Many premises require visitors to wear a mask, this model simulates a gate where only people who are wearing a mask are allowed entry.
 
 ![](./images/maskdoor.png)

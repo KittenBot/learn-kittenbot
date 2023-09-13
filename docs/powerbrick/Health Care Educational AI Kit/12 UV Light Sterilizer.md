@@ -1,5 +1,3 @@
-# UV Light Sterilizer
-
 Sterilizing is an important part in anti-epidemic effort, this model simulates a UV sterilizer.
 
 ![](./images/uvlight.png)

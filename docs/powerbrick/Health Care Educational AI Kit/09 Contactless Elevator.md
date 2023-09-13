@@ -1,5 +1,3 @@
-# Contactless Elevator
-
 Touching public facilities is something that should be avoided during a pandemic. This model simulates a contactless elevator.
 
 ![](./images/lift.png)

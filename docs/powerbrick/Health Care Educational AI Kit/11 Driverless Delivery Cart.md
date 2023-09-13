@@ -1,5 +1,3 @@
-# Driverless Delivery Cart
-
 Ordering takeout delivery is common during the pandemic, this model simulates a driverless delivery cart.
 
 ![](./images/car.png)

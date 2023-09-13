@@ -1,5 +1,3 @@
-# Anti-epidemic Supplies Commander
-
 It is important to prepare the necessary anti-epidemic supplies, this model identifies different anti-epidemic supplies.
 
 ![](./images/command.png)
