@@ -1,5 +1,3 @@
-# Health Care Educational AI Kit
-
 ### Health Care Educational AI Kit 
 
 ![](./images/all.png)
