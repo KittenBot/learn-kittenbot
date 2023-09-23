@@ -7,7 +7,7 @@ When the web button is pressed, the Camera receives the command and its serial p
 
 control flow：
 
-![image.png](./Module_image/1689669982981-23c83cb0-6fc6-4bb9-8aed-a4aa44b458dc.png)
+![image-20230923162533111](https://learn.kittenbot.cn/2023md_pic/202309231625259.png)
 
 Mobile Web Interface
 
@@ -82,7 +82,7 @@ The serial port baud rate is 115200
 ## Take Microbit for example
 Note the use of "text containment" for judgements
 
-![image.png](./Module_image/1686657203896-4b88a9a6-7f47-4c55-934a-7b8dfb7fbc53.png)
+![Sugar-CAM](https://learn.kittenbot.cn/2023md_pic/202309231628812.png)
 
 Example：[https://makecode.microbit.org/_4cWAUUEot4jH](https://makecode.microbit.org/_4cWAUUEot4jH)
 Example of car：[https://makecode.microbit.org/_DgvfhzXqjCUt](https://makecode.microbit.org/_DgvfhzXqjCUt)
