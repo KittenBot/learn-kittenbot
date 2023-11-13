@@ -32,7 +32,6 @@ Use a 3Pin cable to connect the module to Robotbit Edu.
 
 Sugar extension: https://github.com/KittenBot/pxt-sugar
 
-### [Importing Extensions](../../Makecode/powerBrickMC)
 
 ![](./images/magnet_mc_code.png)
 

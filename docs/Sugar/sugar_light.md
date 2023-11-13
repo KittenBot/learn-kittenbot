@@ -32,7 +32,6 @@ Use a 3Pin cable to connect
 
 Sugar extension: https://github.com/KittenBot/pxt-sugar
 
-### [Importing Extensions](../../Makecode/powerBrickMC)
 
 ![](./images/light_mc_code.png)
 

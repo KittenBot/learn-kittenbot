@@ -5,8 +5,7 @@
 A ruler using a TOF sensor.
 
 ## Building Instructions
-
-[Building Instructions(Right Click->Save As)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/Programming Case/pdf/laser_ruler.pdf)
+[Building Instructions](./pdf/laser_ruler.pdf)
 
 ![](../images/ruler_wire.png)
 

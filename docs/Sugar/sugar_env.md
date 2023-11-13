@@ -34,7 +34,6 @@ Use a 4Pin cable to connect the module to the 4Pin I2C Port on the Robotbit Edu.
 
 Sugar extension: https://github.com/KittenBot/pxt-sugar
 
-### [Importing Extensions](../../Makecode/powerBrickMC)
 
 ![](./images/env_mc_code.png)
 

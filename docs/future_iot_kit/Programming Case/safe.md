@@ -6,7 +6,7 @@ Use the potentiometer to select digits and enter the password to open the safe. 
 
 ## Building Instructions
 
-[Building Instructions(Right Click->Save As)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/Programming Case/pdf/safe.pdf)
+[Building Instructions](./pdf/safe.pdf)
 
 ## Sample Wiring Diagram
 

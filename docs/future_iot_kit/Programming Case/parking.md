@@ -6,7 +6,7 @@ Simulate an autonomous parking lot, the gate opens and close automatically, numb
 
 ## Building Instructions
 
-[Building Instructions(Right Click->Save As)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/Programming Case/pdf/parking.pdf)
+[Building Instructions](./pdf/parking.pdf)
 
 ![](../images/parking_wire.png)
 

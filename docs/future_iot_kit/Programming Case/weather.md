@@ -6,7 +6,7 @@ This weather station can report the local weather from Hong Kong Observatory.
 
 ## Building Instructions
 
-[Building Instructions(Right Click->Save As)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/Programming Case/pdf/weatherstation.pdf)
+[Building Instructions](./pdf/weatherstation.pdf)
 
 ## Sample Wiring Diagram
 

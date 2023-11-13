@@ -40,9 +40,6 @@ Through building and programming different models, students can engage in compet
 
 - Compatible with other Kittenbot products
 
-## Specifications
-
-Please refer to: [Robotbit](../../Microbit_eboard/Robotbit/Robotbitfull.md)。
 
 ## Demonstration Video
 

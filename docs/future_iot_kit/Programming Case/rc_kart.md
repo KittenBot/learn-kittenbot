@@ -6,7 +6,9 @@ Control the kart using a Joystick sensor or via an IoT platform.
 
 ## Building Instructions
 
-[Building Instructions(Right Click->Save As)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/Programming Case/pdf/rc_kart.pdf)
+
+[Building Instructions](./pdf/rc_kart.pdf)
+
 
 ## Sample Wiring Diagram
 

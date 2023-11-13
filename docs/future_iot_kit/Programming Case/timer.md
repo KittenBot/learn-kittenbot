@@ -6,7 +6,7 @@ The timer will give off audible alarm when the time is up.
 
 ## Building Instructions
 
-[Building Instructions(Right Click->Save As)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/Programming Case/pdf/timer.pdf)
+[Building Instructions](./pdf/timer.pdf)
 
 ## Sample Wiring Diagram
 

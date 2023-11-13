@@ -6,7 +6,7 @@ A smart streetlamp that can automatically adjusts brightness levels to conserve 
 
 ## Building Instructions
 
-[Building Instructions(Right Click->Save As)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/Programming Case/pdf/streetlamp.pdf)
+[Building Instructions](./pdf/streetlamp.pdf)
 
 ![](../images/streetlamp_wire.png)
 

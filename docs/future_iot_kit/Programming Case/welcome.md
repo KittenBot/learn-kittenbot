@@ -6,7 +6,7 @@ This robot will greet guests by waving its arm and playing a tune.
 
 ## Building Instructions
 
-[Building Instructions(Right Click->Save As)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/Programming Case/pdf/welcome.pdf)
+[Building Instructions](./pdf/welcome.pdf)
 
 ## Sample Wiring Diagram
 

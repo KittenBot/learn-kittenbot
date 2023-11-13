@@ -41,7 +41,6 @@ The module is protected by a hard plastic casing to improve aesthetics as well a
 
 ASR Extension: https://github.com/kittenbothk/pxt-KittenASR
 
-### [Importing Extensions](../../Makecode/powerBrickMC)
 
 ### Complete Commands List
 

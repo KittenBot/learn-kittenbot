@@ -6,7 +6,7 @@ Simulates a smart traffic light.
 
 ## Building Instructions
 
-[Building Instructions](www.google.com)
+[Building Instructions](./pdf/trafficlight.pdf)
 
 ![](../images/streetlamp_wire.png)
 
@@ -24,7 +24,7 @@ Simulates a smart traffic light.
 
 ![](../images/streetlamp_iot_code.png)
 
-[Sample Program](www.google.com)
+[Sample Program](./py/streetlamp.py)
 
 ## Program Instructions
 
