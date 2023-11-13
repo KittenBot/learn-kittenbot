@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 145.3332977294922 40"><g xmlns="http://www.w3.org/2000/svg" data-id="]_1(PKsa%mN-/0/et?;Y" class="blocklyDraggable blocklySelected" data-shapes="reporter round" data-category="方糖摄像头"><style xmlns="http://www.w3.org/1999/xhtml">
+      .blocklyText {
+      fill: #fff;
+      font-family: "Helvetica Neue", Helvetica, sans-serif;
+      font-size: 12pt;
+      font-weight: 600;
+      }
+      .blocklyNonEditableText&gt;text, .blocklyEditableText&gt;text {
+      fill: #575E75;
+      }
+      .blocklyDropdownText {
+      fill: #fff !important;
+      }
+      </style><path class="blocklyPath blocklyBlockBackground" stroke="#6074E6" fill="#7B8FFF" fill-opacity="1" d="m 20,0 H 125.33329772949219 a 20 20 0 0 1 0 40 H 20 a 20 20 0 0 1 0 -40 z"/><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="60.666648864746094" transform="translate(12, 20) ">识别二维码结果</text></g></svg>
