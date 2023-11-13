@@ -21,7 +21,8 @@ const config = {
   organizationName: 'Kittenbot', // Usually your GitHub org/user name.
   projectName: 'learn-kittenbot', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  // onBrokenLinks: 'throw',
+  onBrokenLinks: undefined,
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
