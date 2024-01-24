@@ -1,5 +1,3 @@
-# TabbyVision Quick Start
-
 ## Introduction
 
 ![img](https://learn.kittenbot.cn/2023md_pic/202401231820214.png)
