@@ -15,6 +15,6 @@ You can find the program code [here](https://makecode.microbit.org/S35897-27966-
 
 ![image.png](https://learn.kittenbot.cn/2023md_pic/202402061641705.png)
 
-## Actual Effect:
+## Actual Result:
 
 ![image.png](https://learn.kittenbot.cn/2023md_pic/03led.gif)
