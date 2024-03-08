@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 162.6666259765625 40"><g xmlns="http://www.w3.org/2000/svg" data-id="*![ah}VYBjwZ$O}+NCPP" class="blocklyDraggable blocklySelected" data-shapes="reporter round" data-category="4*4触摸键盘"><style xmlns="http://www.w3.org/1999/xhtml">
+      .blocklyText {
+      fill: #fff;
+      font-family: "Helvetica Neue", Helvetica, sans-serif;
+      font-size: 12pt;
+      font-weight: 600;
+      }
+      .blocklyNonEditableText&gt;text, .blocklyEditableText&gt;text {
+      fill: #575E75;
+      }
+      .blocklyDropdownText {
+      fill: #fff !important;
+      }
+      </style><path class="blocklyPath blocklyBlockBackground" stroke="#191F3B" fill="#363F6A" fill-opacity="1" d="m 20,0 H 142.6666259765625 a 20 20 0 0 1 0 40 H 20 a 20 20 0 0 1 0 -40 z"/><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="69.33331298828125" transform="translate(12, 20) ">获取被按下的键位</text></g></svg>

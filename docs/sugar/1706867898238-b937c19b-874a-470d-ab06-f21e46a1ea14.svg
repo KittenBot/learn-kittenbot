@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 247.78768920898438 56"><g xmlns="http://www.w3.org/2000/svg" data-id="Sg6J!a()DIdu;t4!o(+x" class="blocklyDraggable blocklySelected" data-shapes="stack" data-category="方糖"><style xmlns="http://www.w3.org/1999/xhtml">
+      .blocklyText {
+      fill: #fff;
+      font-family: "Helvetica Neue", Helvetica, sans-serif;
+      font-size: 12pt;
+      font-weight: 600;
+      }
+      .blocklyNonEditableText&gt;text, .blocklyEditableText&gt;text {
+      fill: #575E75;
+      }
+      .blocklyDropdownText {
+      fill: #fff !important;
+      }
+      </style><path class="blocklyPath blocklyBlockBackground" stroke="#2daae0" fill="#30caf9" fill-opacity="1" d="m 0,4 A 4,4 0 0,1 4,0 H 12 c 2,0 3,1 4,2 l 4,4 c 1,1 2,2 4,2 h 12 c 2,0 3,-1 4,-2 l 4,-4 c 1,-1 2,-2 4,-2 H 243.7876853942871 a 4,4 0 0,1 4,4 v 40  a 4,4 0 0,1 -4,4 H 48   c -2,0 -3,1 -4,2 l -4,4 c -1,1 -2,2 -4,2 h -12 c -2,0 -3,-1 -4,-2 l -4,-4 c -1,-1 -2,-2 -4,-2 H 4 a 4,4 0 0,1 -4,-4 z"/><g data-id="J=H`95W[~aidOk;Kc_ch" data-argument-type="text number" data-shapes="argument round" transform="translate(177.1288604736328,8)"><path class="blocklyPath blocklyBlockBackground" stroke="#2daae0" fill="#FFFFFF" fill-opacity="1" d="m 16,0 H 46.6588249206543 a 16 16 0 0 1 0 32 H 16 a 16 16 0 0 1 0 -32 z"/><g class="blocklyEditableText" transform="translate(8, 0) " style="cursor: text;"><text class="blocklyText" x="23.32941246032715" y="18" dominant-baseline="middle" dy="0" text-anchor="middle">1234</text></g></g><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="80.5644302368164" transform="translate(8, 24) ">数码管模块 显示数字</text><path class="blocklyPath blocklyBlockBackground" style="visibility: hidden" d="" fill="#2daae0"/></g></svg>

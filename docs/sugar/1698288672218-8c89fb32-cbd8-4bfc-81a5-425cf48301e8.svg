@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 113.32998657226562 40"><g xmlns="http://www.w3.org/2000/svg" data-id="^kv[WVi#JED3Q0wP^,u5" class="blocklyDraggable blocklySelected" data-shapes="reporter boolean" data-category="operators"><style xmlns="http://www.w3.org/1999/xhtml">
+      .blocklyText {
+      fill: #fff;
+      font-family: "Helvetica Neue", Helvetica, sans-serif;
+      font-size: 12pt;
+      font-weight: 600;
+      }
+      .blocklyNonEditableText&gt;text, .blocklyEditableText&gt;text {
+      fill: #575E75;
+      }
+      .blocklyDropdownText {
+      fill: #fff !important;
+      }
+      </style><path class="blocklyPath blocklyBlockBackground" stroke="#389438" fill="#59C059" fill-opacity="1" d="m 20,0 H 93.32998657226562 l 20 20 l -20 20 H 20 l -20 -20 l 20 -20 z"/><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="8.664993286132812" transform="translate(20, 20) ">非</text><path class="blocklyPath" style="visibility: visible" d="M 16,0 h 16 a 16 16 0 0 1 0 32 h -16 a 16 16 0 0 1 0 -32 z" fill="#389438" transform="translate(45.329986572265625,4)" data-argument-type="round"/></g></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 316.0461120605469 40"><g xmlns="http://www.w3.org/2000/svg" data-id="Pr-pypPugO1vSf2U:$ME" class="blocklyDraggable blocklySelected" data-shapes="reporter boolean" data-category="方糖"><style xmlns="http://www.w3.org/1999/xhtml">
+      .blocklyText {
+      fill: #fff;
+      font-family: "Helvetica Neue", Helvetica, sans-serif;
+      font-size: 12pt;
+      font-weight: 600;
+      }
+      .blocklyNonEditableText&gt;text, .blocklyEditableText&gt;text {
+      fill: #575E75;
+      }
+      .blocklyDropdownText {
+      fill: #fff !important;
+      }
+      </style><path class="blocklyPath blocklyBlockBackground" stroke="#2daae0" fill="#30caf9" fill-opacity="1" d="m 20,0 H 296.04611587524414 l 20 20 l -20 20 H 20 l -20 -20 l 20 -20 z"/><g data-id="Y]-Ugc(-GeM,~^EtvMd2" data-argument-type="dropdown" data-shapes="argument" transform="translate(114.66664123535156,4)"><path class="blocklyPath blocklyBlockBackground" stroke="#2daae0" fill="#1cb1e5" fill-opacity="1" d="m 0,4 A 4,4 0 0,1 4,0 H 82.71283340454102 a 4,4 0 0,1 4,4 v 24  a 4,4 0 0,1 -4,4 H 4 a 4,4 0 0,1 -4,-4 z"/><g class="blocklyEditableText" transform="translate(8, 0) " style="cursor: default;"><text class="blocklyText blocklyDropdownText" x="25.356416702270508" y="18" dominant-baseline="middle" dy="0" text-anchor="middle">Port1</text><image xmlns:xlink="http://www.w3.org/1999/xlink" height="12px" width="12px" xlink:href="./static/blocks-media/dropdown-arrow.svg" transform="translate(54.712833404541016,11)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAJCAYAAADpeqZqAAAAAXNSR0IArs4c6QAAAOZJREFUKFNjNDY2Zn39+jXPnz9/mFlZWVkZsAAmJqZ/v379+sPKyvr3wYMHHxilpaWFz5w5ky0kJOTOwsKiw8TExIeu7+/fv49B+PDhw/UpKSlHGOXl5SXv379/g5GREUMxuuYvX76sUlJSSmaUk5MTPHv2bLWIiEgxNqfBxP7///9p3759wRkZGYcZGRgYmKSkpIRu3rw5lYeHJwybRpiGlJSUM2A/QRXh1IiuAaQepgnExtCITQO6JrjGixcvVvDx8VkdPny4DuYkZGcj2wQTZ1RRUeH99esX858/f34+e/bsG7o/AdBgfDBMdn6gAAAAAElFTkSuQmCC"/></g></g><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="43.33332061767578" transform="translate(20, 20) ">霍尔传感器</text><path class="blocklyPath" style="visibility: hidden" d="" fill="#2daae0"/><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="43.33332061767578" transform="translate(209.37947463989258, 20) ">检测有磁铁</text></g></svg>

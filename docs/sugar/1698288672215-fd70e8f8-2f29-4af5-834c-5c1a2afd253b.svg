@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 154.19593811035156 40"><g xmlns="http://www.w3.org/2000/svg" data-id="bvrBnE-=(FtJ$8:VHH6Z" class="blocklyDraggable blocklySelected" data-shapes="reporter boolean" data-category="未来板 Lite" style=""><style xmlns="http://www.w3.org/1999/xhtml">
+      .blocklyText {
+      fill: #fff;
+      font-family: "Helvetica Neue", Helvetica, sans-serif;
+      font-size: 12pt;
+      font-weight: 600;
+      }
+      .blocklyNonEditableText&gt;text, .blocklyEditableText&gt;text {
+      fill: #575E75;
+      }
+      .blocklyDropdownText {
+      fill: #fff !important;
+      }
+      </style><path class="blocklyPath blocklyBlockBackground" stroke="#0a7aea" fill="#0099FF" fill-opacity="1" d="m 20,0 H 134.19593238830566 l 20 20 l -20 20 H 20 l -20 -20 l 20 -20 z"/><g data-id="{B:f=7pH0sJfmm+..Gu0" data-argument-type="dropdown" data-shapes="argument" transform="translate(20,4)"><path class="blocklyPath blocklyBlockBackground" stroke="#0a7aea" fill="#0080ff" fill-opacity="1" d="m 0,4 A 4,4 0 0,1 4,0 H 50.19594764709473 a 4,4 0 0,1 4,4 v 24  a 4,4 0 0,1 -4,4 H 4 a 4,4 0 0,1 -4,-4 z"/><g class="blocklyEditableText" transform="translate(8, 0) " style="cursor: default;"><text class="blocklyText blocklyDropdownText" x="9.097973823547363" y="18" dominant-baseline="middle" dy="0" text-anchor="middle">A</text><image xmlns:xlink="http://www.w3.org/1999/xlink" height="12px" width="12px" xlink:href="./static/blocks-media/dropdown-arrow.svg" transform="translate(22.195947647094727,11)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAJCAYAAADpeqZqAAAAAXNSR0IArs4c6QAAAOZJREFUKFNjNDY2Zn39+jXPnz9/mFlZWVkZsAAmJqZ/v379+sPKyvr3wYMHHxilpaWFz5w5ky0kJOTOwsKiw8TExIeu7+/fv49B+PDhw/UpKSlHGOXl5SXv379/g5GREUMxuuYvX76sUlJSSmaUk5MTPHv2bLWIiEgxNqfBxP7///9p3759wRkZGYcZGRgYmKSkpIRu3rw5lYeHJwybRpiGlJSUM2A/QRXh1IiuAaQepgnExtCITQO6JrjGixcvVvDx8VkdPny4DuYkZGcj2wQTZ1RRUeH99esX858/f34+e/bsG7o/AdBgfDBMdn6gAAAAAElFTkSuQmCC"/></g></g><path class="blocklyPath" style="visibility: hidden" d="" fill="#0a7aea"/><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="25.99999237060547" transform="translate(82.19594764709473, 20) ">被按下</text></g></svg>
