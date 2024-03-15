@@ -6,11 +6,7 @@ sidebar_position: 38
 
 ## Features
 ---
-| **Signal** | Time domain signal - analog serial port protocol |
-| --- | --- |
-|  |
-
-
+**Signal**:Time domain signal - analog serial port protoco
 
 
 
