@@ -3,7 +3,7 @@ title: Sugar Cube - Digital Tube Module
 sidebar_position: 22
 ---
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1706865741220-a0aa3f75-a230-4f45-a4e2-d9bce37160bd.png" alt="2数码管模块.png" style="zoom:50%;" />
+![2数码管模块.png](https://learn.kittenbot.cn/2024md_pic/1706865741220-a0aa3f75-a230-4f45-a4e2-d9bce37160bd.png)
 
 
 
@@ -26,11 +26,11 @@ A digital tube is a common display device often used for digital display in devi
 
 
 ## Wiring
-<img src="https://learn.kittenbot.cn/2024md_pic/1706866501177-b662507a-a568-483e-adaa-bdaba953980a.png" alt="3.png" style="zoom: 15%;" />
+![3.png](https://learn.kittenbot.cn/2024md_pic/1706866501177-b662507a-a568-483e-adaa-bdaba953980a.png)
 
 |  |  | Future board Lite interface | Cable | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1706865741220-a0aa3f75-a230-4f45-a4e2-d9bce37160bd.png" alt="2数码管模块.png" style="zoom:25%;" /> | Sugar cube digital tube module | I2C | Black PH2.0-4Pin interface cable | <img src="https://learn.kittenbot.cn/2024md_pic/1706866506331-aff5ef84-0413-4a5e-90bc-5a476728eddb.png" alt="PH2.0-4pin.png" style="zoom:35%;" /> |
+| ![2数码管模块.png](https://learn.kittenbot.cn/2024md_pic/1706865741220-a0aa3f75-a230-4f45-a4e2-d9bce37160bd.png) | Sugar cube digital tube module | I2C | Black PH2.0-4Pin interface cable | ![PH2.0-4pin.png](https://learn.kittenbot.cn/2024md_pic/1706866506331-aff5ef84-0413-4a5e-90bc-5a476728eddb.png) |
 warning
 Either I2C terminal can be connected to
 
@@ -101,7 +101,7 @@ Run the program offline to view the effect
 
 
 ## Using on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom:10%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -128,11 +128,11 @@ In the extensions, search for Sugar, click Add
 
 
 ## Circuit Connection
-<img src="https://learn.kittenbot.cn/2024md_pic/1709781806862-22c8c0b1-7e25-41a4-95d3-24efc69605c5.png" alt="image.png" style="zoom: 67%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709781806862-22c8c0b1-7e25-41a4-95d3-24efc69605c5.png)
 
 |  |  | Microbit Port | Wiring | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1706865741220-a0aa3f75-a230-4f45-a4e2-d9bce37160bd.png" alt="2数码管模块.png" style="zoom:25%;" /> | Sugar Cube Digital Tube Module | I2C | Black PH2.0-4Pin Interface Cable | <img src="https://learn.kittenbot.cn/2024md_pic/1706866506331-aff5ef84-0413-4a5e-90bc-5a476728eddb.png" alt="PH2.0-4pin.png" style="zoom:25%;" /> |
+| ![2数码管模块.png](https://learn.kittenbot.cn/2024md_pic/1706865741220-a0aa3f75-a230-4f45-a4e2-d9bce37160bd.png) | Sugar Cube Digital Tube Module | I2C | Black PH2.0-4Pin Interface Cable | ![PH2.0-4pin.png](https://learn.kittenbot.cn/2024md_pic/1706866506331-aff5ef84-0413-4a5e-90bc-5a476728eddb.png) |
 
 
 

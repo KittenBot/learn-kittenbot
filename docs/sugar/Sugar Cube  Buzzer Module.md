@@ -5,7 +5,7 @@ sidebar_position: 8
 
 
 ## Introduction
-<img src="https://learn.kittenbot.cn/2024md_pic/1706865759331-eb476b34-26ec-4618-ab7c-b8a984785e0f.png" alt="2 Active Buzzers" style="zoom: 50%;" />
+![2 Active Buzzers](https://learn.kittenbot.cn/2024md_pic/1706865759331-eb476b34-26ec-4618-ab7c-b8a984785e0f.png)
 
 
 
@@ -30,11 +30,11 @@ An active buzzer is an acoustic module that combines a vibrating diaphragm, driv
 
 
 ## Wiring
-<img src="https://learn.kittenbot.cn/2024md_pic/1706866491269-ef6a4bfb-8cb1-44ea-b45e-caba50f73320.png" alt="未标题-2.png" style="zoom: 20%;" />
+![未标题-2.png](https://learn.kittenbot.cn/2024md_pic/1706866491269-ef6a4bfb-8cb1-44ea-b45e-caba50f73320.png)
 
 |  |  | Future Board Lite Interface | Wire | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1706865759331-eb476b34-26ec-4618-ab7c-b8a984785e0f.png" alt="2有源蜂鸣器.png" style="zoom:33%;" /> | Sugar Cube - Buzzer Module | Port3 | White PH2.0-3Pin Interface Cable | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![2有源蜂鸣器.png](https://learn.kittenbot.cn/2024md_pic/1706865759331-eb476b34-26ec-4618-ab7c-b8a984785e0f.png) | Sugar Cube - Buzzer Module | Port3 | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 warning:
 Supports being connected to Port1, Port2, Port3, Port4<br />Make sure the interface and the actual one are consistent when programming
 
@@ -45,7 +45,7 @@ Supports being connected to Port1, Port2, Port3, Port4<br />Make sure the interf
 ## Block - Function Description
 | Number | Block Diagram | Block Function |
 | --- | --- | --- |
-| 1 | <img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710401953192.png" alt="blocksPng-1710401953192" style="zoom:50%;" /> | Control the buzzer switch |
+| 1 | ![blocksPng-1710401953192](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710401953192.png) | Control the buzzer switch |
 
 
 
@@ -74,7 +74,7 @@ Run the program offline to see the result
 
 
 ## Using Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom: 10%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 

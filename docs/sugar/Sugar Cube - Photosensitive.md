@@ -24,7 +24,7 @@ Detect the ambient light intensity and return the analog data.<br />![image.png]
 
 
 ## Using on micro:bit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom:10%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -58,7 +58,7 @@ Detect the ambient light intensity and return the analog data.<br />![image.png]
 ![image.png](https://learn.kittenbot.cn/2024md_pic/1709784382403-7d8788c6-2a0a-4904-90f8-4e6c1332480f.png)
 |  |  | Microbit Interface | Wiring | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1709805688485-53f60007-b78a-4c3c-812d-43eaff5d909a.png" alt="Light Sensor.png" style="zoom:25%;" /> | Light Sensor | P0 | White PH2.0-3Pin Interface Wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![Light Sensor.png](https://learn.kittenbot.cn/2024md_pic/1709805688485-53f60007-b78a-4c3c-812d-43eaff5d909a.png) | Light Sensor | P0 | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 ---
 
 

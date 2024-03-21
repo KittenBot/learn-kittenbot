@@ -1,11 +1,9 @@
----
 title: Sugar Cube - Ultrasonic Atomization Module
 sidebar_position: 12
----
 
 
 ## Introduction
-<img src="https://learn.kittenbot.cn/2024md_pic/1698301335290-bdf7a6b2-aa90-47a1-bb81-fe1ec9d079d7.png" alt="Sugar Cube Ultrasonic Misting Module (2).png" style="zoom: 50%;" />
+![Sugar Cube Ultrasonic Misting Module (2).png](https://learn.kittenbot.cn/2024md_pic/1698301335290-bdf7a6b2-aa90-47a1-bb81-fe1ec9d079d7.png)
 
 
 
@@ -27,11 +25,11 @@ Ultrasonic atomizer uses electronic high-frequency oscillation (oscillation freq
 
 
 ## Wiring
-<img src="https://learn.kittenbot.cn/2024md_pic/1698301468067-8b94cba4-38b1-4f23-a55a-6389a2d12512.png" alt="Future Board Lite Mainboard 3 - Copy.png" style="zoom: 25%;" />
+![Future Board Lite Mainboard 3 - Copy.png](https://learn.kittenbot.cn/2024md_pic/1698301468067-8b94cba4-38b1-4f23-a55a-6389a2d12512.png)
 
 |  |  | Future Board Lite Interface | Wire |<br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698301335290-bdf7a6b2-aa90-47a1-bb81-fe1ec9d079d7.png" alt="Sugar Cube Ultrasonic Misting Module (2).png" style="zoom: 33%;" /> | Sugar Cube Ultrasonic Atomization Module | Port3 | White PH2.0-3Pin Interface Wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![Sugar Cube Ultrasonic Misting Module (2).png](https://learn.kittenbot.cn/2024md_pic/1698301335290-bdf7a6b2-aa90-47a1-bb81-fe1ec9d079d7.png) | Sugar Cube Ultrasonic Atomization Module | Port3 | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 warning
 Supports connecting to Port1, Port2, Port3, Port4<br />Pay attention that the interface is consistent with the actual when programming.
 
@@ -40,8 +38,7 @@ Supports connecting to Port1, Port2, Port3, Port4<br />Pay attention that the in
 ## Building Block - Function Description
 | Sequence | Building Block Image | Building Block Function |
 | --- | --- | --- |
-| 1 | ![blocksSvg-1699435635293.svg](1699435640703-2ebcd74b-719b-46d9-b14b-9c95de4d782d.svg) | Control the switch of the external atomization module |
-| 2 | ![blocksSvg-1698388793063.svg](1698388802273-0df70f93-4e48-4f78-aa75-7700824d7889.svg) | Invert the program state |
+| 1 | ![image-20240321135815941](https://learn.kittenbot.cn/2024md_pic/image-20240321135815941.png) | Control the switch of the external atomization module |
 
 
 
@@ -71,7 +68,7 @@ Run the program offline to check the effect
 
 
 ## Usage on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom:10%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -86,7 +83,7 @@ Run the program offline to check the effect
 
 ## Add Sugar plug-in
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-<img src="https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png" alt="image.png" style="zoom:50%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)
 
 Search for Sugar in extensions, click Add
 
@@ -95,7 +92,7 @@ Search for Sugar in extensions, click Add
 
 
 ## Circuit Connection
-<img src="https://learn.kittenbot.cn/2024md_pic/1709782879708-6dd82fbb-6e25-4404-944c-039f412a7000.png" alt="image.png" style="zoom:67%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709782879708-6dd82fbb-6e25-4404-944c-039f412a7000.png)
 
 |  |  | Microbit Interface | Wire | <br /> |
 | --- | --- | --- | --- | --- |

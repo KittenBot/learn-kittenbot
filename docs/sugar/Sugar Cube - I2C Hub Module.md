@@ -18,11 +18,11 @@ When the I2C interface of Futureboard Lite is not enough, this module can be use
 
 
 ##   Wiring
-<img src="https://learn.kittenbot.cn/2024md_pic/1698381450139-a3e4c5cc-0138-459e-a2cd-315c313de23d.png" alt="Futureboard Lite Mainboard 3 - 副本.png" style="zoom: 25%;" />
+![Futureboard Lite Mainboard 3 - 副本.png](https://learn.kittenbot.cn/2024md_pic/1698381450139-a3e4c5cc-0138-459e-a2cd-315c313de23d.png)
 
 |  |  | Futureboard Lite Interface | Wire Harness | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698304541348-71c78bc2-186b-4bf2-8c47-c347e723d48a.png" alt="Sugar Cube I2C Hub Module.png" style="zoom:25%;" /> | Sugar Cube I2C Hub Module | I2C | Black PH2.0-4Pin Interface Wire Harness | <img src="https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png" alt="untitled.108.png" style="zoom: 33%;" /> |
+| ![Sugar Cube I2C Hub Module.png](https://learn.kittenbot.cn/2024md_pic/1698304541348-71c78bc2-186b-4bf2-8c47-c347e723d48a.png) | Sugar Cube I2C Hub Module | I2C | Black PH2.0-4Pin Interface Wire Harness | ![untitled.108.png](https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png) |
 warning
 Supports any I2C interface
 
@@ -31,7 +31,7 @@ Supports any I2C interface
 
 
 ## Using on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_compressed.png" style="zoom:10%;" />
+![Robotbit_compressed.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 

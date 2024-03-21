@@ -5,7 +5,7 @@ sidebar_position: 17
 
 
 ## Introduction
-Soil sensor, used to detect soil moisture, meow home soil module adopts capacitive soil, anti-corrosion, when the humidity is larger, the analog value returned is smaller<br /><img src="https://learn.kittenbot.cn/2024md_pic/1636035841223-6879353d-8781-4191-afc2-9a801c3506a1.png" alt="soil.png" style="zoom:50%;" />
+Soil sensor, used to detect soil moisture, meow home soil module adopts capacitive soil, anti-corrosion, when the humidity is larger, the analog value returned is smaller<br />![soil.png](https://learn.kittenbot.cn/2024md_pic/1636035841223-6879353d-8781-4191-afc2-9a801c3506a1.png)
 
 
 
@@ -25,7 +25,7 @@ Soil sensor, used to detect soil moisture, meow home soil module adopts capaciti
 
 
 ## Using (Makecode) on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom:10%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -40,7 +40,7 @@ Soil sensor, used to detect soil moisture, meow home soil module adopts capaciti
 
 ## Add the Sugar Plugin
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-<img src="https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png" alt="image.png" style="zoom: 50%;" /><br />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)<br />
 Within Extensions, search for Sugar and click Add
 
 
@@ -57,11 +57,11 @@ Within Extensions, search for Sugar and click Add
 
 
 ## Circuit Connection
-<img src="https://learn.kittenbot.cn/2024md_pic/1709804960998-4d716b9e-6abb-43e4-9e24-e169b29bd6b7.png" alt="image.png" style="zoom: 67%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709804960998-4d716b9e-6abb-43e4-9e24-e169b29bd6b7.png)
 
 |  |  | Microbit port | Wire used |  |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1709805000326-8e9a9552-4c68-4278-a5d6-d4e5399bec81.png" alt="Soil moisture module.png" style="zoom:50%;" /> | Cube soil moisture module | P0 | White PH2.0-3Pin interface wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:50%;" /> |
+| ![Soil moisture module.png](https://learn.kittenbot.cn/2024md_pic/1709805000326-8e9a9552-4c68-4278-a5d6-d4e5399bec81.png) | Cube soil moisture module | P0 | White PH2.0-3Pin interface wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 ---
 Connect the light-sensitive module to the P1 of Robotbit Edu using the 3PIN terminal wire.<br />(Only the three pins with analog read function, P0, P1, and P2, can be connected)
 Turn on the Robotbit power and you can see the red light at the bottom of the soil module light up (indicating that the module is powered normally)<br />
@@ -71,7 +71,7 @@ Turn on the Robotbit power and you can see the red light at the bottom of the so
 
 
 ## Case
-First, map the soil moisture value from 0-1023 to 1023 to 0, so that the wetter the soil, the greater the value<br />Then determine whether the value is below the set value, and a sad face is displayed if it is below the set value<br /><img src="https://learn.kittenbot.cn/2024md_pic/image-20240316154542659.png" alt="image-20240316154542659" style="zoom:67%;" />
+First, map the soil moisture value from 0-1023 to 1023 to 0, so that the wetter the soil, the greater the value<br />Then determine whether the value is below the set value, and a sad face is displayed if it is below the set value<br />![image-20240316154542659](https://learn.kittenbot.cn/2024md_pic/image-20240316154542659.png)
 
 
 

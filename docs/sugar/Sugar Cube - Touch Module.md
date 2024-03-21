@@ -16,11 +16,11 @@ The module contains a built-in touch detection chip that touches the housing via
 
 ## Wiring
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1698389055888-5b56763c-0ee0-42b2-aab5-6533ee06012f.png" alt="Future Board Lite Main Board 3 - Copy.png" style="zoom: 25%;" />
+![Future Board Lite Main Board 3 - Copy.png](https://learn.kittenbot.cn/2024md_pic/1698389055888-5b56763c-0ee0-42b2-aab5-6533ee06012f.png)
 
 |                                                              |                    | Future Board Lite Interface | Cable                            |                                                              |
 | ------------------------------------------------------------ | ------------------ | --------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698303888937-53265e7a-c52d-4d0a-ab81-d8572ba50712.png" alt="Sugar Touch Module.png" style="zoom:25%;" /> | Sugar Touch Module | Port3                       | White PH2.0-3Pin Interface Cable | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom: 33%;" /> |
+| ![Sugar Touch Module.png](https://learn.kittenbot.cn/2024md_pic/1698303888937-53265e7a-c52d-4d0a-ab81-d8572ba50712.png) | Sugar Touch Module | Port3                       | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
 warning          
 
@@ -65,7 +65,7 @@ Run the program offline to see the effect
 
 
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_compressed.png" style="zoom:10%;" />
+![Robotbit_compressed.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 ## Programming Platform
 
@@ -76,7 +76,7 @@ Programming with Makecode Platform
 ## Add Sugar Plugin
 
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-<img src="https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png" alt="image.png" style="zoom:50%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)
 
 Search for Sugar in extensions, click Add
 
@@ -86,7 +86,7 @@ Search for Sugar in extensions, click Add
 
 |                                                              |                    | Microbit Interface | Wire                            |                                                              |
 | ------------------------------------------------------------ | ------------------ | ------------------ | ------------------------------- | ------------------------------------------------------------ |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698303888937-53265e7a-c52d-4d0a-ab81-d8572ba50712.png" alt="Sugar Touch Module.png" style="zoom:33%;" /> | Sugar Touch Module | P0                 | White PH2.0-3Pin Interface Wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![Sugar Touch Module.png](https://learn.kittenbot.cn/2024md_pic/1698303888937-53265e7a-c52d-4d0a-ab81-d8572ba50712.png) | Sugar Touch Module | P0                 | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
 
 

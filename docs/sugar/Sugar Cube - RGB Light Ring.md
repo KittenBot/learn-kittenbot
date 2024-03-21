@@ -82,7 +82,7 @@ The colored LED lamp bead has a lamp controller directly built-in, in addition t
 
 
 ## Using On Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_compressed.png" style="zoom:10%;" />
+![Robotbit_compressed.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -102,18 +102,18 @@ The colored LED lamp bead has a lamp controller directly built-in, in addition t
 ![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)<br />
 Search for sugar in the extension, click add
 
-<img src="https://learn.kittenbot.cn/2024md_pic/image-20240316173109254.png" alt="image-20240316173109254" style="zoom:50%;" />
+![image-20240316173109254](https://learn.kittenbot.cn/2024md_pic/image-20240316173109254.png)
 
 
 
 
 
 ## Circuit Connection
-<img src="https://learn.kittenbot.cn/2024md_pic/1709781697870-bb04bd6b-12c4-4792-aefb-017e1f1bf369.png" alt="image.png" style="zoom:80%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709781697870-bb04bd6b-12c4-4792-aefb-017e1f1bf369.png)
 
 |  |  | Microbit Interface | Cable Used | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1694743956158-1282f2e1-dc0d-41c0-869c-58bd3e29ecac.jpeg" alt="IMG_4009.JPG" style="zoom:33%;" /> | RGB Light Ring | P0 | White PH2.0-3Pin Interface Cable | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![IMG_4009.JPG](https://learn.kittenbot.cn/2024md_pic/1694743956158-1282f2e1-dc0d-41c0-869c-58bd3e29ecac.jpeg) | RGB Light Ring | P0 | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
 
 

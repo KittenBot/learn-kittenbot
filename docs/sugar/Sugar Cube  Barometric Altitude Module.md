@@ -20,11 +20,17 @@ The Earth has gravity, and the closer an object is to the center of the earth, t
 
 
 ## Wiring diagram
-<img src="https://learn.kittenbot.cn/2024md_pic/1698381006260-edfd42d4-419a-47a6-96c5-4d5bfe157a0d.png" alt="Future Board Lite mainboard 3 - copy.png" style="zoom: 25%;" />
+![Future Board Lite mainboard 3 - copy.png](https://learn.kittenbot.cn/2024md_pic/1698381006260-edfd42d4-419a-47a6-96c5-4d5bfe157a0d.png)
 
 |  |  | Future Board Lite interface | Wire used | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698304512143-5134f34b-12a3-49ee-9ea6-c5c8f97d393e.png" alt="Sugar cube pressure altitude module.png" style="zoom:25%;" /> | Sugar cube pressure altitude module | I2C | Black PH2.0-4Pin interface wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png" alt="untitled.108.png" style="zoom:33%;" /> |
+| ![png9009](https://learn.kittenbot.cn/2024md_pic/1698304512143-5134f34b-12a3-49ee-9ea6-c5c8f97d393e.png) | Sugar cube pressure altitude module | I2C | Black PH2.0-4Pin interface wire | ![untitled.108.png](https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png) |
+
+
+
+
+
+
 
 Connection supported on I2C<br />Both I2C interfaces are the same     Note: Do not connect to the UART port
 
@@ -71,7 +77,7 @@ Run the program offline to view the effect
 
 
 ## Using on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom: 15%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -99,11 +105,11 @@ Run the program offline to view the effect
 
 
 ## Circuit Connection
-<img src="https://learn.kittenbot.cn/2024md_pic/1709782628111-441b04f2-58b7-45c1-b414-9f8237b407a5.png" alt="image.png" style="zoom: 67%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709782628111-441b04f2-58b7-45c1-b414-9f8237b407a5.png)
 
 |  |  | Microbit Interface | Wire | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698304512143-5134f34b-12a3-49ee-9ea6-c5c8f97d393e.png" alt="Sugar cube barometer altitude module.png" style="zoom:33%;" /> | Sugar cube barometer altitude module | I2C | Black PH2.0-4Pin interface wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png" alt="untitled.108.png" style="zoom:33%;" /> |
+| ![Sugar cube barometer altitude module.png](https://learn.kittenbot.cn/2024md_pic/1698304512143-5134f34b-12a3-49ee-9ea6-c5c8f97d393e.png) | Sugar cube barometer altitude module | I2C | Black PH2.0-4Pin interface wire | ![untitled.108.png](https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png) |
 
 
 

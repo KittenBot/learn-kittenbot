@@ -4,7 +4,7 @@ sidebar_position: 36
 ---
 ## Introduction
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1694661592690-67fa06c3-5a08-4075-983b-4bcebf667a97.png" alt="超声波新版-2.png" style="zoom: 25%;" />
+![超声波新版-2.png](https://learn.kittenbot.cn/2024md_pic/1694661592690-67fa06c3-5a08-4075-983b-4bcebf667a97.png)
 
 ## Function
 
@@ -38,12 +38,12 @@ With the intelligent sensing device, you can control lighting in school areas (c
 
 ## Circuit Connection
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1694744305598-7827dc6c-6cac-4964-8103-5ad749eb47f5.png" alt="校园照明.png" style="zoom: 33%;" />
+![校园照明.png](https://learn.kittenbot.cn/2024md_pic/1694744305598-7827dc6c-6cac-4964-8103-5ad749eb47f5.png)
 
 |                                                              |                                      | Future Board Lite Interface | Wire in Use                     |                                                              |
 | ------------------------------------------------------------ | ------------------------------------ | --------------------------- | ------------------------------- | ------------------------------------------------------------ |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1694743956158-1282f2e1-dc0d-41c0-869c-58bd3e29ecac.jpeg" alt="IMG_4009.JPG" style="zoom:25%;" /> | RGB Light Ring                       | Port1                       | White PH2.0-3Pin Interface Wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1694661592690-67fa06c3-5a08-4075-983b-4bcebf667a97.png" alt="超声波新版-2.png" style="zoom: 25%;" /> | Ultrasonic Distance Measuring Module | Port3                       | White PH2.0-3Pin Interface Wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![IMG_4009.JPG](https://learn.kittenbot.cn/2024md_pic/1694743956158-1282f2e1-dc0d-41c0-869c-58bd3e29ecac.jpeg) | RGB Light Ring                       | Port1                       | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
+| ![超声波新版-2.png](https://learn.kittenbot.cn/2024md_pic/1694661592690-67fa06c3-5a08-4075-983b-4bcebf667a97.png) | Ultrasonic Distance Measuring Module | Port3                       | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
 
 
@@ -67,7 +67,7 @@ With the intelligent sensing device, you can control lighting in school areas (c
 
 | Sequence | Building Block Image                                         | Building Block Function                          |
 | :------: | ------------------------------------------------------------ | ------------------------------------------------ |
-|    1     | ![blocksSvg-1694742008468.svg](1694742020589-c98f0526-543a-4647-9c71-153f10265650.svg) | Read the distance value of the ultrasonic module |
+|    1     | ![image-20240321135944216](https://learn.kittenbot.cn/2024md_pic/image-20240321135944216.png) | Read the distance value of the ultrasonic module |
 
 ## Main Program - Ultrasonic Ranging
 
@@ -78,7 +78,7 @@ Using ultrasonic for distance measurement and controlling RGB lights
 
 ## Use on Microbit
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_compressed.png" style="zoom:10%;" />
+![Robotbit_compressed.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 ## Programming Platform
 
@@ -89,7 +89,7 @@ Using ultrasonic for distance measurement and controlling RGB lights
 
 
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-<img src="https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png" alt="image.png" style="zoom:50%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)
 
 Search for Sugar in extensions, click Add
 
@@ -101,11 +101,11 @@ Search for Sugar in extensions, click Add
 
 ## Circuit connection
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1709782177840-0303b98a-e042-4522-838f-5e8a3604cd23.png" alt="image.png" style="zoom: 67%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709782177840-0303b98a-e042-4522-838f-5e8a3604cd23.png)
 
 |                                                              |                           | Microbit Interface | Wiring                           |                                                              |
 | ------------------------------------------------------------ | ------------------------- | ------------------ | -------------------------------- | ------------------------------------------------------------ |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1694661592690-67fa06c3-5a08-4075-983b-4bcebf667a97.png" alt="Ultrasonic new-2.png" style="zoom: 25%;" /> | Ultrasonic ranging module | P1                 | White PH2.0-3Pin interface cable | <img src="1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![Ultrasonic new-2.png](https://learn.kittenbot.cn/2024md_pic/1694661592690-67fa06c3-5a08-4075-983b-4bcebf667a97.png) | Ultrasonic ranging module | P1                 | White PH2.0-3Pin interface cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
 ## Case: Distance Measurement
 

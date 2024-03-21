@@ -5,7 +5,7 @@ sidebar_position: 4
 
 
 ## Introduction
-<img src="https://learn.kittenbot.cn/2024md_pic/1698310429465-6c5c021a-d552-4453-822c-7badf44a152a.png" alt="Sugar cube collision module.png" style="zoom:50%;" />
+![Sugar cube collision module.png](https://learn.kittenbot.cn/2024md_pic/1698310429465-6c5c021a-d552-4453-822c-7badf44a152a.png)
 
 
 
@@ -28,11 +28,11 @@ The module uses a touch switch. When the switch is closed, the circuit generates
 
 ## Wiring
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1698388982783-92f3c55f-3a6f-4e52-a7e8-2231541ac798.png" alt="Future Board Lite Motherboard 3 - Copy.png" style="zoom:33%;" />
+![Future Board Lite Motherboard 3 - Copy.png](https://learn.kittenbot.cn/2024md_pic/1698388982783-92f3c55f-3a6f-4e52-a7e8-2231541ac798.png)
 
 |  |  | Future Board Lite Interface | Wiring | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698310429465-6c5c021a-d552-4453-822c-7badf44a152a.png" alt="Sugar Cube Collision Module.png" style="zoom:30%;" /> | Sugar Cube Collision Module | Port3 | White PH2.0-3Pin Interface Cable | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![Sugar Cube Collision Module.png](https://learn.kittenbot.cn/2024md_pic/1698310429465-6c5c021a-d552-4453-822c-7badf44a152a.png) | Sugar Cube Collision Module | Port3 | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 warning
 Supports connecting to Port1, Port2, Port3, Port4<br />When programming, make sure that the interface is consistent with the actual use
 
@@ -68,7 +68,7 @@ Using the offline download mode to run the program to check the effects
 
 
 ## Using Robotbit on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom:10%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -94,7 +94,7 @@ Search for Sugar in the extensions, click Add
 ![image.png](https://learn.kittenbot.cn/2024md_pic/1709782704916-a3324085-af69-46ed-a40a-bf8d9f191ac3.png)
 |  |  | Microbit Interface | Line | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698310429465-6c5c021a-d552-4453-822c-7badf44a152a.png" alt="Sugar Cube Collision Module.png" style="zoom:33%;" /> | Sugar Cube Collision Module | P0 | White PH2.0-3Pin Interface Line | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![Sugar Cube Collision Module.png](https://learn.kittenbot.cn/2024md_pic/1698310429465-6c5c021a-d552-4453-822c-7badf44a152a.png) | Sugar Cube Collision Module | P0 | White PH2.0-3Pin Interface Line | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 warning
 Support connection at P0, P1, P8, P13, etc.<br />Keep the interface consistent with the actual one during programming
 

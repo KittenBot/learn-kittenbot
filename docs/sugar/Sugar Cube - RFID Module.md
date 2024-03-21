@@ -5,7 +5,7 @@ sidebar_position: 24
 
 
 ## Introduction
-RFID (Radio Frequency Identification) is a wireless communication technology that uses radio waves to transfer data between a reader and an electronic tag attached to an object, allowing for automatic identification and tracking. RFID tags contain electronically stored information that can be read and rewritten.<br /><img src="https://learn.kittenbot.cn/2024md_pic/1696911817559-d9dda490-1f18-4b72-85ca-8979b12e7011.jpeg" alt="4119fb71afbd598b1a89e234c15b2e6d.jpg" style="zoom:20%;" />
+RFID (Radio Frequency Identification) is a wireless communication technology that uses radio waves to transfer data between a reader and an electronic tag attached to an object, allowing for automatic identification and tracking. RFID tags contain electronically stored information that can be read and rewritten.<br />![4119fb71afbd598b1a89e234c15b2e6d.jpg](https://learn.kittenbot.cn/2024md_pic/1696911817559-d9dda490-1f18-4b72-85ca-8979b12e7011.jpeg)
 
 
 
@@ -59,14 +59,14 @@ Program description:<br />Execute related operations through the three buttons o
 <br />Program description: During startup, the program will display the card number if an RFID tag is detected, and you can use the Data Panel Button A to write data and Button B to view data.
 <br />
 
-<img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710573205592.png" alt="blocksPng-1710573205592" style="zoom:50%;" />
+![blocksPng-1710573205592](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710573205592.png)
 
 
 
 
 
 ## Using the Robotbit on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_compressed.png" style="zoom:10%;" />
+![Robotbit_compressed.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -89,5 +89,5 @@ Search for sugar in the extension, click add
 
 
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1709783252647-ef5fd60c-3606-4c68-983a-5730644796f6.png" alt="image.png" style="zoom:67%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709783252647-ef5fd60c-3606-4c68-983a-5730644796f6.png)
 

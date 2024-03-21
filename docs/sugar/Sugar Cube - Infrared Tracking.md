@@ -26,7 +26,7 @@ The module is able to emit and receive infrared light at a close distance, and i
 
 
 ## Usage on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom:10%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -60,7 +60,7 @@ The module is able to emit and receive infrared light at a close distance, and i
 ![image.png](https://learn.kittenbot.cn/2024md_pic/1709784427451-d4b007be-7103-4339-9b38-6ca14b0c826a.png)
 |  |  | Microbit interface | Wire | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1709792371197-7f6c8110-1530-4615-a05d-4cdee99b4912.png" alt="Digital line tracking sensor.png" style="zoom:33%;" /> | RGB light ring | P0 | White PH2.0-3Pin interface wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![Digital line tracking sensor.png](https://learn.kittenbot.cn/2024md_pic/1709792371197-7f6c8110-1530-4615-a05d-4cdee99b4912.png) | RGB light ring | P0 | White PH2.0-3Pin interface wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
 
 

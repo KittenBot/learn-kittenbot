@@ -94,7 +94,7 @@ Print the data of the X and Y axes on the Future Board screen. When the joystick
 
 
 ## Using on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom:10%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -129,7 +129,7 @@ Search for Sugar in the extensions, click Add
 ![image.png](https://learn.kittenbot.cn/2024md_pic/1709783498467-9606532f-bac4-4bca-a8b6-9fe754806d43.png)
 |  |  | Microbit Interface | Cable | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1709803910777-0dd22f64-823e-47b5-aa89-caf137758110.png" alt="Five-way joystick.png" style="zoom:25%;" /> | Sugar cube joystick module | I2C | Black PH2.0-4Pin interface cable | <img src="https://learn.kittenbot.cn/2024md_pic/1706866506331-aff5ef84-0413-4a5e-90bc-5a476728eddb.png" alt="PH2.0-4pin.png" style="zoom:25%;" /> |
+| ![Five-way joystick.png](https://learn.kittenbot.cn/2024md_pic/1709803910777-0dd22f64-823e-47b5-aa89-caf137758110.png) | Sugar cube joystick module | I2C | Black PH2.0-4Pin interface cable | ![PH2.0-4pin.png](https://learn.kittenbot.cn/2024md_pic/1706866506331-aff5ef84-0413-4a5e-90bc-5a476728eddb.png) |
 
 
 

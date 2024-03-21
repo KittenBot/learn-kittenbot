@@ -15,7 +15,7 @@ Signal:Timing Signal
 ## Module Principle
 > Key value data corresponding to infrared remote control emission
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1698304464112-9770ba65-2693-4bf6-94b9-e9afabba54f3.jpeg" alt="红外遥控器.jpeg" style="zoom: 50%;" />
+![红外遥控器.jpeg](https://learn.kittenbot.cn/2024md_pic/1698304464112-9770ba65-2693-4bf6-94b9-e9afabba54f3.jpeg)
 
 | ff005da2 | ff009d62 | ff001de2 |
 | --- | --- | --- |
@@ -32,10 +32,10 @@ Signal:Timing Signal
 
 ## Wiring
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1698380706419-a2ebab60-1711-4200-b918-f513c0643b69.png" alt="Futureboard Lite mainboard 3 - 副本.png" style="zoom:33%;" />
+![Futureboard Lite mainboard 3 - 副本.png](https://learn.kittenbot.cn/2024md_pic/1698380706419-a2ebab60-1711-4200-b918-f513c0643b69.png)
 |  |  | Futureboard Lite interface | Use wire | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698304447703-cf39bc13-2665-402a-9b8f-7c539b825262.png" alt="Sugar cube infrared receiving module.png" style="zoom:33%;" /> | Infrared remote control | Port3 | White PH2.0-3Pin interface cable | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![Sugar cube infrared receiving module.png](https://learn.kittenbot.cn/2024md_pic/1698304447703-cf39bc13-2665-402a-9b8f-7c539b825262.png) | Infrared remote control | Port3 | White PH2.0-3Pin interface cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 warning
 Supported connection to Port1、Port2、Port3、Port4<br />Be sure the interface is consistent with the actual situation while programming.
 
@@ -127,7 +127,7 @@ Run the program offline to view the effect
 
 
 ## Using on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_compressed.png" style="zoom:10%;" />
+![Robotbit_compressed.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 

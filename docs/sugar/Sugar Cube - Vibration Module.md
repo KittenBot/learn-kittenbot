@@ -5,7 +5,7 @@ sidebar_position: 9
 
 
 ## Introduction
-<img src="https://learn.kittenbot.cn/2024md_pic/1698287532183-366309ef-d990-40b9-af37-553d1959ba62.png" alt="Sugar Cube Motor.png" style="zoom:50%;" />
+![Sugar Cube Motor.png](https://learn.kittenbot.cn/2024md_pic/1698287532183-366309ef-d990-40b9-af37-553d1959ba62.png)
 
 
 
@@ -27,11 +27,11 @@ There is a motor inside, the axis of rotation of the motor is not symmetrically 
 
 
 ## Wiring
-<img src="https://learn.kittenbot.cn/2024md_pic/1698288934990-45c33ef9-8b83-4926-b5bb-f20911f5a61c.png" alt="Future_Board_Lite_Motherboard_3 - 副本.png" style="zoom: 25%;" />
+![Future_Board_Lite_Motherboard_3 - 副本.png](https://learn.kittenbot.cn/2024md_pic/1698288934990-45c33ef9-8b83-4926-b5bb-f20911f5a61c.png)
 
 |  |  | Future_Board_Lite_Interface | Wire | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698287532183-366309ef-d990-40b9-af37-553d1959ba62.png" alt="Sugar_Vibration_Module.png" style="zoom:33%;" /> | Sugar Vibration Module | Port1 | White PH2.0-3Pin Interface Wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:33%;" /> |
+| ![Sugar_Vibration_Module.png](https://learn.kittenbot.cn/2024md_pic/1698287532183-366309ef-d990-40b9-af37-553d1959ba62.png) | Sugar Vibration Module | Port1 | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 warning
 Supports connection to Port1、Port2、Port3、Port4<br />Pay attention to the consistency between the interface and the actual interface during programming
 
@@ -40,7 +40,7 @@ Supports connection to Port1、Port2、Port3、Port4<br />Pay attention to the c
 ## Block Function Description
 | No. | Block Image | Block Function |
 | --- | --- | --- |
-| 1 | ![blocksSvg-1698288662359.svg](1698288672210-7d7ffcfd-3a8a-4bb0-b0bb-dcb87f2f79ec.svg) | Control the switch of vibration module |
+| 1 | ![image-20240321140101510](https://learn.kittenbot.cn/2024md_pic/image-20240321140101510.png) | Control the switch of vibration module |
 
 
 
@@ -81,7 +81,7 @@ Use the app to download and run programs offline to view results
 
 
 ## Using on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom:10%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -97,16 +97,16 @@ Use the app to download and run programs offline to view results
 ##   Add the Sugar plugin
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png" alt="image.png" style="zoom:50%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)
 
 Search for Sugar in extensions, click Add
 
 ## Circuit connection
-<img src="https://learn.kittenbot.cn/2024md_pic/1709782569408-b31b39a1-d115-4f31-8315-a0240273e7bb.png" alt="image.png" style="zoom: 67%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709782569408-b31b39a1-d115-4f31-8315-a0240273e7bb.png)
 
 | | | Microbit port | Wire | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1709792663875-77566f8d-5300-4a38-8017-9ee42410b1ba.png" alt="2 vibration module.png" style="zoom:50%;" /> | Sugar vibration module | P0 | White PH2.0-3Pin interface wire | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:67%;" /> |
+| ![2 vibration module.png](https://learn.kittenbot.cn/2024md_pic/1709792663875-77566f8d-5300-4a38-8017-9ee42410b1ba.png) | Sugar vibration module | P0 | White PH2.0-3Pin interface wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
 ## Block Function Description
 

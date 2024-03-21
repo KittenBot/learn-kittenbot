@@ -3,7 +3,7 @@ title: Sugar Cube - Sound Sensor Module
 sidebar_position: 14
 ---
 
-<img src="https://learn.kittenbot.cn/2024md_pic/1698304431894-0eb19018-6a88-438c-9981-9f2052b509c5.png" alt="Sugar Cube Sound Intensity Module.png" style="zoom: 50%;" />
+![Sugar Cube Sound Intensity Module.png](https://learn.kittenbot.cn/2024md_pic/1698304431894-0eb19018-6a88-438c-9981-9f2052b509c5.png)
 
 
 
@@ -26,11 +26,11 @@ The sound sensor works based on the principle of piezoelectricity. When a sound 
 
 
 ## Wiring
-<img src="https://learn.kittenbot.cn/2024md_pic/1698375489067-eb9f3b79-90c7-43a2-8435-7c13864f715e.png" alt="Futublock Lite Mainboard 3 - Copy.png" style="zoom:33%;" />
+![Futublock Lite Mainboard 3 - Copy.png](https://learn.kittenbot.cn/2024md_pic/1698375489067-eb9f3b79-90c7-43a2-8435-7c13864f715e.png)
 
 |  |  | Futublock Lite Interface | Cable | <br /> |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698304431894-0eb19018-6a88-438c-9981-9f2052b509c5.png" alt="Sugar Cube Sound Intensity Module.png" style="zoom: 50%;" /> | Sugar Cube Sound Sensor Module | Port3 | White PH2.0-3Pin Interface Cable | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom:50%;" /> |
+| ![Sugar Cube Sound Intensity Module.png](https://learn.kittenbot.cn/2024md_pic/1698304431894-0eb19018-6a88-438c-9981-9f2052b509c5.png) | Sugar Cube Sound Sensor Module | Port3 | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 warning
 Support connecting to Port1, Port2, Port3, Port4<br />Pay attention to the consistency of interface and actual situation when programming
 
@@ -51,7 +51,7 @@ Support connecting to Port1, Port2, Port3, Port4<br />Pay attention to the consi
 ## Block 1 - Full program
 
 
-<img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578213621.png" alt="blocksPng-1710578213621" style="zoom:50%;" />
+![blocksPng-1710578213621](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578213621.png)
 
 
 
@@ -60,19 +60,19 @@ Set the color screen to full color pixel mode, and turn off the auto refresh mod
 
 
 
-<img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578233232.png" alt="blocksPng-1710578233232" style="zoom: 80%;" />
+![blocksPng-1710578233232](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578233232.png)
 
 
 warning
 Read the value of sound sensor, and set a threshold, when the value is over the threshold, the screen displays red, otherwise displays green. <br />The threshold can be modified according to the actual situation. <br />
 
-<img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578238076.png" alt="blocksPng-1710578238076" style="zoom: 80%;" />
+![blocksPng-1710578238076](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578238076.png)
 
 
 tips
 Display the value of sound sensor on the color screen. <br />
 
-<img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578242356.png" alt="blocksPng-1710578242356" style="zoom: 80%;" />
+![blocksPng-1710578242356](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578242356.png)
 
 
 
@@ -81,7 +81,7 @@ Display the value of sound sensor on the color screen. <br />
 
 
 
-<img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578523865.png" alt="blocksPng-1710578523865" style="zoom:50%;" />
+![blocksPng-1710578523865](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578523865.png)
 
 
 
@@ -89,12 +89,12 @@ Display the value of sound sensor on the color screen. <br />
 warning
 Set the display to full color pixel mode and turn off auto refresh mode.<br />
 
-<img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578568972.png" alt="blocksPng-1710578568972" style="zoom:67%;" />
+![blocksPng-1710578568972](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578568972.png)
 
 
 
 
-Draw three concentric circles that represent three levels of sound.<br /><img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578574198.png" alt="blocksPng-1710578574198" style="zoom:80%;" />
+Draw three concentric circles that represent three levels of sound.<br />![blocksPng-1710578574198](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578574198.png)
 
 > Convert the value from the sound sensor to a value that can be displayed as the radius of a circle on the screen.
 > - How mapping works
@@ -121,7 +121,7 @@ Run the program offline to view the effect
 
 
 ## Using on Microbit
-<img src="https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png" alt="Robotbit_压缩后.png" style="zoom:10%;" />
+![Robotbit_压缩后.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
 
 
@@ -136,7 +136,7 @@ Run the program offline to view the effect
 
 ## Add the Sugar plugin
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-<img src="https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png" alt="image.png" style="zoom:50%;" />
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)
 
 
 
