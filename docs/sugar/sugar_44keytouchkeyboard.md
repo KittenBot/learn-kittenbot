@@ -1,10 +1,7 @@
----
-title: Sugar Cube - 4*4 Touch Keyboard
-sidebar_position: 38
----
-
+Sugar Cube - 4*4 Touch Keyboard
 
 ## Features
+
 ---
 **Signal**:Time domain signal - analog serial port protoco
 
@@ -25,9 +22,11 @@ There is capacitance between any two conductive objects. The size of the capacit
 
 |  |  | Future Board Lite Interface | Cable |                                                              |
 | --- | --- | --- | --- | --- |
-| <img src="https://learn.kittenbot.cn/2024md_pic/1698304525229-b89f562e-2c4a-47df-a831-39e25f5a6e56.png" alt="Sugar Cube 4x4 Touch Keypad Module (2).png" style="zoom:25%;" /> | Sugar Cube LED Module | UART0 | Black PH2.0-4Pin Interface Cable | <img src="https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png" alt="untitled.108.png" style="zoom:25%;" /> |
+| <img src="https://learn.kittenbot.cn/2024md_pic/1698304525229-b89f562e-2c4a-47df-a831-39e25f5a6e56.png" alt="Sugar Cube 4x4 Touch Keypad Module (2).png" style="zoom: 33%;" /> | Sugar Cube LED Module | UART0 | Black PH2.0-4Pin Interface Cable | <img src="https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png" alt="untitled.108.png" style="zoom:25%;" /> |
 
-Supports connecting to UART0, UART1<br />Pay attention to keeping the interface consistent with the actual interface when programming
+Supports connecting to UART0, UART1
+
+Pay attention to keeping the interface consistent with the actual interface when programming
 
 
 
@@ -45,14 +44,15 @@ Supports connecting to UART0, UART1<br />Pay attention to keeping the interface 
 
 ## Program 1-Complete program
 
-Cyclically read the keys pressed by the touch, and display the key values on the dot matrix of the color screen.<br />Note: The type of the value of the key position read by the program is a string, which cannot be compared with a number
+Cyclically read the keys pressed by the touch, and display the key values on the dot matrix of the color screen.
+
+Note: The type of the value of the key position read by the program is a string, which cannot be compared with a number
 
 <img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710142968221.png" alt="blocksPng-1710142968221" style="zoom: 67%;" />
 
 
 
 ## Program 2-Complete Program
-
 
 Implement complete password lock function, enter password in order, finally press # to end, compare with set password, if successful, display screen as green
 <img src="https://learn.kittenbot.cn/2024md_pic/blocksPng-1710143987083.png" alt="blocksPng-1710143987083" style="zoom:50%;" />
@@ -65,7 +65,7 @@ Implement complete password lock function, enter password in order, finally pres
 
 ## Program 2 - Function Description
 
-Program initialization: Set the color screen mode, the initial touch keyboard port<br />
+Program initialization: Set the color screen mode, the initial touch keyboard port
 
 ![blocksPng-1710143992693](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710143992693.png)
 
@@ -104,7 +104,9 @@ How to run your program using offline download to check the effect
 
 
 ##   Programming platform
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)<br />Use Makecode programming platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)
+
+Use Makecode programming platform
 
 
 
@@ -113,7 +115,9 @@ How to run your program using offline download to check the effect
 ##   Add the Sugar Cube Plugin
 
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-<img src="https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png" alt="image.png" style="zoom: 50%;" /><br />Search for "Sugar" in the extensions, click "Add"
+<img src="https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png" alt="image.png" style="zoom: 50%;" />
+
+Search for "Sugar" in the extensions, click "Add"
 
 
 
@@ -125,7 +129,9 @@ How to run your program using offline download to check the effect
 |  |  | Future Board Lite interface | Use cable | <br /> |
 | --- | --- | --- | --- | --- |
 | <img src="https://learn.kittenbot.cn/2024md_pic/1698304525229-b89f562e-2c4a-47df-a831-39e25f5a6e56.png" alt="Sugar cube 4x4 touch keyboard module (2).png" style="zoom:25%;" /> | Sugar cube LED module | UART | Black PH2.0-4Pin interface cable | <img src="https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png" alt="untitled.108.png" style="zoom:33%;" /> |
-Support connecting to P2 and P12<br />Pay attention to interface consistency with the actual interface during programming
+Support connecting to P2 and P12
+
+Pay attention to interface consistency with the actual interface during programming
 
 
 

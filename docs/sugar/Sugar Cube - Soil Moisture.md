@@ -1,5 +1,5 @@
 ---
-   title: Sugar Cube - Soil Moisture
+title: Sugar Cube - Soil Moisture
 sidebar_position: 17
 ---
 

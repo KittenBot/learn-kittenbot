@@ -20,7 +20,7 @@ The module contains a built-in touch detection chip that touches the housing via
 
 |                                                              |                    | Future Board Lite Interface | Cable                            |                                                              |
 | ------------------------------------------------------------ | ------------------ | --------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| <img src="1698303888937-53265e7a-c52d-4d0a-ab81-d8572ba50712.png" alt="Sugar Touch Module.png" style="zoom:25%;" /> | Sugar Touch Module | Port3                       | White PH2.0-3Pin Interface Cable | <img src="1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom: 33%;" /> |
+| <img src="https://learn.kittenbot.cn/2024md_pic/1698303888937-53265e7a-c52d-4d0a-ab81-d8572ba50712.png" alt="Sugar Touch Module.png" style="zoom:25%;" /> | Sugar Touch Module | Port3                       | White PH2.0-3Pin Interface Cable | <img src="https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png" alt="untitled.100.png" style="zoom: 33%;" /> |
 
 warning          
 
