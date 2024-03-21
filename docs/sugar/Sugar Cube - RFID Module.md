@@ -5,7 +5,7 @@ sidebar_position: 24
 
 
 ## Introduction
-RFID (Radio Frequency Identification) is a wireless communication technology that uses radio waves to transfer data between a reader and an electronic tag attached to an object, allowing for automatic identification and tracking. RFID tags contain electronically stored information that can be read and rewritten.<br />![4119fb71afbd598b1a89e234c15b2e6d.jpg](https://learn.kittenbot.cn/2024md_pic/1696911817559-d9dda490-1f18-4b72-85ca-8979b12e7011.jpeg)
+RFID (Radio Frequency Identification) is a wireless communication technology that uses radio waves to transfer data between a reader and an electronic tag attached to an object, allowing for automatic identification and tracking. RFID tags contain electronically stored information that can be read and rewritten.![4119fb71afbd598b1a89e234c15b2e6d.jpg](https://learn.kittenbot.cn/2024md_pic/1696911817559-d9dda490-1f18-4b72-85ca-8979b12e7011.jpeg)
 
 
 
@@ -35,8 +35,8 @@ RFID (Radio Frequency Identification) is a wireless communication technology tha
 
 ## Programming
 
-Program description:<br />Execute related operations through the three buttons on the mini future board<br />A: Display card ID<br />M: Write data to card partition 0<br />B: Read card partition 0<br /><img src="C:\Users\Administrator\Desktop\blocksPng-1710572662066.png" alt="blocksPng-1696917176108.png" style="zoom:50%;" />
-<br />
+Program description:<br />Execute related operations through the three buttons on the mini future board<br />A: Display card ID<br />M: Write data to card partition 0<br />B: Read card partition 0<br />![blocksPng-1711002053635](https://learn.kittenbot.cn/2024md_pic/blocksPng-1711002053635.png)
+
 
 # Using  on FutureLite Board
 

@@ -110,7 +110,7 @@ Support connecting to P0, P1, P2, P8, etc.<br />When programming, make sure the 
 
 
 ## Case: Button Control
-<img src="https://learn.kittenbot.cn/2024md_pic/image-20240316170433007.png" alt="image-20240316170433007" style="zoom:67%;" />
+![image-20240316170433007](https://learn.kittenbot.cn/2024md_pic/image-20240316170433007.png)
 
 
 
