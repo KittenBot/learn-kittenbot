@@ -26,18 +26,23 @@ This communication method supports communication between three types of boards: 
 ## Case 1 - Wireless light switch
 
 - Effect: Need two micro:bits, download the receiver and transmitter programs, and press the buttons A and B on the receiver micro:bit to turn on and turn off the colored lights on the other micro:bit
-- Program - Transmitter `<br/><br/>`
+- Program - Transmitter
+
   ![image-20240321152020289](https://learn.kittenbot.cn/2024md_pic/image-20240321152020289.png)
-- Program - Receiver `<br/><br/>`
+- Program - Receiver 
+
 
   ![image-20240321152219289](https://learn.kittenbot.cn/2024md_pic/image-20240321152219289.png)
 
 ## Case 2 - Anti-lost Device for Kids
 
-- Effect: When the two Grape boards exceed the distance and cannot communicate, the parent's Grape board will raise an alarm.`<br/><br/>`
+- Effect: When the two Grape boards exceed the distance and cannot communicate, the parent's Grape board will raise an alarm.
+
   ![2024md_pic/1670298603324-b3c5b868-5786-4efa-83f0-e8c36cedb4d4.png](https://learn.kittenbot.cn/2024md_pic/1670298603324-b3c5b868-5786-4efa-83f0-e8c36cedb4d4.png)
-- Program - Parent Side `<br/><br/>`
+- Program - Parent Side
+
   ![image-20240321160242126](https://learn.kittenbot.cn/2024md_pic/image-20240321160242126.png)
-- Program - Child Side `<br/><br/>`
+- Program - Child Side 
+
 
   ![image-20240321152443023](https://learn.kittenbot.cn/2024md_pic/image-20240321152443023.png)

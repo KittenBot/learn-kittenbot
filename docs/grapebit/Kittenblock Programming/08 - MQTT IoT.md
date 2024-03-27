@@ -24,7 +24,7 @@ The following tutorial uses KittenBot's IoT platform as the server. Before using
 3. After creation, click Connect to Topic
 
    ![image.png](https://learn.kittenbot.cn/2024md_pic/1670325614453-1d397c6a-7b6d-4592-9f12-a062616a9a44.png)
-4. Send a test message`<br />`![image.png](https://learn.kittenbot.cn/2024md_pic/1670325693953-94a34fdb-6b57-4336-8c6d-c15f27a17768.png)
+4. Send a test message `<br />`![image.png](https://learn.kittenbot.cn/2024md_pic/1670325693953-94a34fdb-6b57-4336-8c6d-c15f27a17768.png)
    :::warning
    You may need to refresh to see the new message.`<br />`![image.png](https://learn.kittenbot.cn/2024md_pic/1670325784181-4064761a-b7e5-4a18-a905-10200b622763.png)
    :::
@@ -51,9 +51,11 @@ The following tutorial uses KittenBot's IoT platform as the server. Before using
 This case introduces the communication control of two Grapeboards. If you only have one Grapeboard, you can use it as the `controlled receiving end`, and you can directly send instructions to the corresponding topic through the MQTT server page for control.
 :::
 
-- Effect: You can remotely control the device using the MQTT server as a medium.`<br/><br/>`
+- Effect: You can remotely control the device using the MQTT server as a medium.` <br/><br/>`
   ![image.png](https://learn.kittenbot.cn/2024md_pic/1670298755599-b39c3142-c38c-41f5-be67-252541907db5.png)
-- Program - Control End `<br/><br/>`
+- Program - Control End
+
   ![image-20240321152954206](https://learn.kittenbot.cn/2024md_pic/image-20240321152954206.png)
-- Program - Controlled End `<br/><br/>`
+- Program - Controlled End 
+
   ![image-20240321153200323](https://learn.kittenbot.cn/2024md_pic/image-20240321153200323.png)

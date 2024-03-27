@@ -26,13 +26,17 @@ The 4 onboard RGB colorful lights are of ws2812 model, which can freely control 
 ## Case 1 - Running Water Lamp
 
 - Effect
+
   ![normal video 00_00_00-00_00_30~1.gif](https://learn.kittenbot.cn/2024md_pic/1670318060165-5a6fe2ef-239c-4413-ac71-d0becf8dc964.gif)
 - Program blocks
+
   ![](https://learn.kittenbot.cn/2024md_pic/image-20240321150417034.png)
 
 ## Case 1 - Breathing Light
 
-- Effect `<br/><br/>`
+- Effect
+
   ![normal video 00_00_00-00_00_30.gif](https://learn.kittenbot.cn/2024md_pic/1670317987151-441966ea-b530-4ae8-be9b-be2d7fe969d7.gif)
-- Program Building Blocks `<br/><br/>`
+- Program Building Blocks `
+  `
   ![image-20240321150516728](https://learn.kittenbot.cn/2024md_pic/image-20240321150516728.png)

@@ -47,10 +47,15 @@ The Grapeboard is supported in the latest **Kittenblock1.89** version. Please do
 
 Wireless connection is based on grape board Bluetooth. Please follow the following steps to complete Bluetooth connection:
 
-1. Powered by battery or USB data cable `<br/><br/>`
-   ![lADPJw1WVMYcuM3NBQDNAcY_454_1280.jpg](https://learn.kittenbot.cn/2024md_pic/1670311595737-b314ea77-6895-4b70-b914-863764bfbad6.jpeg) `<br/><br/>`
-2. When using battery power, the semi-load battery power switch needs to be turned on, as shown in the figure, turn it to the side marked with BAT `<br/><br/>`   ![image.png](https://learn.kittenbot.cn/2024md_pic/1673497802248-83470899-663d-4aa8-aac0-665c26599ce8.png) `<br/><br/>`
-3. Press the grape board reset button to restart the grape board. Note that there is about 3s of white RGB rotation during startup. During this time, press any A or B button, and the RGB light turns blue to indicate successful entry into Bluetooth mode `<br/><br/>`![lyms 00_00_00-00_00_30.gif](https://learn.kittenbot.cn/2024md_pic/1670312670498-8105c57e-472b-4fb8-a973-ad09b91bdacc.gif) `<br/><br/>`
+1. Powered by battery or USB data cable
+
+   ![lADPJw1WVMYcuM3NBQDNAcY_454_1280.jpg](https://learn.kittenbot.cn/2024md_pic/1670311595737-b314ea77-6895-4b70-b914-863764bfbad6.jpeg)
+2. When using battery power, the semi-load battery power switch needs to be turned on, as shown in the figure, turn it to the side marked with BAT 
+
+   ![image.png](https://learn.kittenbot.cn/2024md_pic/1673497802248-83470899-663d-4aa8-aac0-665c26599ce8.png)
+3. Press the grape board reset button to restart the grape board. Note that there is about 3s of white RGB rotation during startup. During this time, press any A or B button, and the RGB light turns blue to indicate successful entry into Bluetooth mode 
+
+   ![lyms 00_00_00-00_00_30.gif](https://learn.kittenbot.cn/2024md_pic/1670312670498-8105c57e-472b-4fb8-a973-ad09b91bdacc.gif)
 4. After selecting the grape board on the software side, select `Wireless connection` in the connection ![image-20240321155107504](https://learn.kittenbot.cn/2024md_pic/image-20240321155107504.png)
 5. Wait for the device to be found, and the target hardware is the one that starts with grapebit
 

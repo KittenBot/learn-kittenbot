@@ -24,19 +24,24 @@ The accelerometer sensor can provide numerical feedback on the acceleration of t
 ## Case 1: Race Walk Foul Detection
 
 - Effect: The Grove board will emit an alert when the athlete's movements are too large.
-  `<br />`
+
+
   ![image.png](https://learn.kittenbot.cn/2024md_pic/1670322135393-aeae8b24-2613-4f48-8cd7-ee54fba9e565.png)
-  `<br/><br/>`
-- Programming Blocks `<br/><br/>`
+- Programming Blocks
+
   ![image-20240321150758776](https://learn.kittenbot.cn/2024md_pic/image-20240321150758776.png)
 
 ## Case 2 - Sitting Posture Detection
 
-- Effect: Place the micro:bit on your head, if your sitting posture is incorrect, it will sound a reminder~`<br/><br/>`![image.png](https://learn.kittenbot.cn/2024md_pic/1670298497683-63f8489f-f069-4f07-a2d2-63018be4d5a2.png)
-- Program blocks `<br/><br/>`
+- Effect: Place the micro:bit on your head, if your sitting posture is incorrect, it will sound a reminder~
+  ![image.png](https://learn.kittenbot.cn/2024md_pic/1670298497683-63f8489f-f069-4f07-a2d2-63018be4d5a2.png)
+- Program blocks
+
   ![image-20240321150849807](https://learn.kittenbot.cn/2024md_pic/image-20240321150849807.png)
 
 ## Case3 - Keep balance
 
 - Effect: Keep the LED light to maintain the brightness
-- Program block diagram `<br/><br/>`![image-20240321151105075](https://learn.kittenbot.cn/2024md_pic/image-20240321151105075.png)
+- Program block diagram 
+
+  ![image-20240321151105075](https://learn.kittenbot.cn/2024md_pic/image-20240321151105075.png)
