@@ -40,7 +40,7 @@ For IoT servers, I recommend Kittenbot's IoT server: [https://iot.kittenbot.cn/]
 
 
 ## Send a message to a topic
-![image-20240322140708618](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240322140708618.png)
+![image-20240322140708618](https://learn.kittenbot.cn/2024md_pic/image-20240322140708618.png)
 
 
 

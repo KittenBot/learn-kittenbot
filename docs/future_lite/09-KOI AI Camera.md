@@ -60,7 +60,7 @@ Program description: When the prompt appears on the screen, point the camera at 
 
 ## Line Tracking
 Program description: after the prompt appears, press the A key to start calibration, please place the color to be calibrated completely in the square on the screen.
-<br />![Line Tracking.png](1694766881532-501d7365-3fae-4028-8a35-66b38843a758.png)
+<br />![Line Tracking.png](https://learn.kittenbot.cn/2024md_pic/1694766881532-501d7365-3fae-4028-8a35-66b38843a758.png)
 
 
 
