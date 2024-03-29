@@ -92,8 +92,8 @@ The program is now written
 This drive is not a real storage space, but rather a simulation to facilitate program downloads, so files cannot be extracted from it.
 :::
 Copy or move the .uf2 file downloaded from the browser to this drive.
-![image.png](1711699132966-b6133e5d-22ca-4bc0-ace7-6c7b7f393df1.png)
-The result should look something like this:<br />![recording.gif](1711698792746-c3587c7f-2d90-4c26-b1ed-5c016f59e716.gif)
+![image.png](https://learn.kittenbot.cn/2024md_pic/1711699132966-b6133e5d-22ca-4bc0-ace7-6c7b7f393df1.png)
+The result should look something like this:<br />![img](https://learn.kittenbot.cn/2024md_pic/1711698792746-c3587c7f-2d90-4c26-b1ed-5c016f59e716.gif)
 
 
 
@@ -126,32 +126,32 @@ For beginners, it can be roughly divided into 3 parts:
 
 ## Game Prototype Design
 1. Select or design a character image. Use this building block to create a character and put it under the `**when turned on**` execution building block. In the gallery, we can select a built-in character
-  ![image-20240329165004029](https://learn.kittenbot.cn/2024md_pic/image-20240329165004029.png)
+    ![image-20240329165004029](https://learn.kittenbot.cn/2024md_pic/image-20240329165004029.png)
 
 
   ![image-20240329165010560](https://learn.kittenbot.cn/2024md_pic/image-20240329165010560.png)
 
 2. Associate the character with the keyboard (also the buttons on the meow bit). At this time, you can try to use the keyboard to control the movement of the sprite in the simulator
-  ![image-20240329165044476](https://learn.kittenbot.cn/2024md_pic/image-20240329165044476.png)
+    ![image-20240329165044476](https://learn.kittenbot.cn/2024md_pic/image-20240329165044476.png)
 
 
   ![image-20240329165146705](https://learn.kittenbot.cn/2024md_pic/image-20240329165146705.png)
 3. Add a background to the game, change only one color for the time being, and brighten the scene
-  ![image-20240329165209632](https://learn.kittenbot.cn/2024md_pic/image-20240329165209632.png)
+    ![image-20240329165209632](https://learn.kittenbot.cn/2024md_pic/image-20240329165209632.png)
 
 
   ![image-20240329165306603](https://learn.kittenbot.cn/2024md_pic/image-20240329165306603.png)
 
 4. Add a map to the game. With the limitation of the map, it really looks like a game scene. Click on the map setting interface, and first change the parameters. Change the original 16:16 to 10:8.
-  ![image-20240329165326085](https://learn.kittenbot.cn/2024md_pic/image-20240329165326085.png)
+    ![image-20240329165326085](https://learn.kittenbot.cn/2024md_pic/image-20240329165326085.png)
 
   ![image-20240329165417817](https://learn.kittenbot.cn/2024md_pic/image-20240329165417817.png)
 
 5. Select a brick you like and draw it with the mouse in the area on the right
-  ![image.png](https://learn.kittenbot.cn/2024md_pic/1710902228702-1bb6a291-e43e-463d-af3c-1bdfdc336b53.png)
+    ![image.png](https://learn.kittenbot.cn/2024md_pic/1710902228702-1bb6a291-e43e-463d-af3c-1bdfdc336b53.png)
 
 6. After building the following program, the simulator effect on the left is shown in the figure
-  ![image-20240329165504097](https://learn.kittenbot.cn/2024md_pic/image-20240329165504097.png)
+    ![image-20240329165504097](https://learn.kittenbot.cn/2024md_pic/image-20240329165504097.png)
 
 
 
@@ -167,9 +167,11 @@ The above steps have completed the simplest game prototype design, including `ro
 ![image-20240329165722570](https://learn.kittenbot.cn/2024md_pic/image-20240329165722570.png)
 4. Add realistic meaning, basic physical laws are necessary. In order to prevent objects from passing through each other, add the property of `wall` to the map scene.
 - Return to the editing interface of the tile map, select the wall attribute
- ![image-20240329165737323](https://learn.kittenbot.cn/2024md_pic/image-20240329165737323.png)  ![image.png](1710902704099-0c9f409a-9440-4ab5-9a85-32115f22ceeb.png)
+ ![image-20240329165737323](https://learn.kittenbot.cn/2024md_pic/image-20240329165737323.png)  
+ 
+ ![img](https://learn.kittenbot.cn/2024md_pic/1710902704099-0c9f409a-9440-4ab5-9a85-32115f22ceeb.jpeg)
 - Smear on the tile that needs to be turned into a wall, and the tile that turns red will be upgraded to a role that cannot be passed through
-        ![image.png](1600763048768-5062f967-7c40-475e-9ff5-271d44e67733.png)
+        ![image.png](https://learn.kittenbot.cn/2024md_pic/1600763048768-5062f967-7c40-475e-9ff5-271d44e67733.png)
 
 
 
@@ -247,7 +249,7 @@ Because the controller is a common plug-in, other sensors (as shown in the figur
 
 ## Light Sensor Example
 Intro: Create a sprite that repeatedly says the current light level.<br />Code:<br />![image-20240329171026347](https://learn.kittenbot.cn/2024md_pic/image-20240329171026347.png)<br />Open in Playground:<br />[https://makecode.com/_EkYhVPMAWT6A](https://makecode.com/_EkYhVPMAWT6A)
-Behavior:<br />You should see the light level change when you cover the light sensor with your hand.<br />![lAHPBFf_-hsk2Y7NAfHNAfE_497_497.gif](1625987342854-95fd0afc-bd65-4366-974f-9ae4862abf67.gif)
+Behavior:<br />You should see the light level change when you cover the light sensor with your hand.<br />![lAHPBFf_-hsk2Y7NAfHNAfE_497_497.gif](https://learn.kittenbot.cn/2024md_pic/1625987342854-95fd0afc-bd65-4366-974f-9ae4862abf67.gif)
 
 
 
@@ -255,7 +257,7 @@ Behavior:<br />You should see the light level change when you cover the light se
 
 ## Temperature Example
 Introduction: Create a sprite and let it repeat to display the current temperature.<br />Program:<br />![image-20240329171119964](https://learn.kittenbot.cn/2024md_pic/image-20240329171119964.png)<br />You can open the program directly:<br />[https://makecode.com/_iLmVTKa89WrJ](https://makecode.com/_iLmVTKa89WrJ)
-Phenomenon:<br />You can see the value slowly rising when your hand touches the thermistor (the measured temperature is slightly higher than the room temperature because there is heat on the PCB circuit board)<br />![lAHPBFDk_NGiiDvNAkLNAkI_578_578.gif](1625987832439-391bc599-b157-4a56-8725-1d248eec921b.gif)
+Phenomenon:<br />You can see the value slowly rising when your hand touches the thermistor (the measured temperature is slightly higher than the room temperature because there is heat on the PCB circuit board)<br />![lAHPBFDk_NGiiDvNAkLNAkI_578_578.gif](https://learn.kittenbot.cn/2024md_pic/1625987832439-391bc599-b157-4a56-8725-1d248eec921b.gif)
 
 
 
@@ -290,7 +292,7 @@ After loading the plugin, the following building block extensions will appear<br
 
 
 ## 📋：Drive Motor
-![资源 7.png](1610448541235-ae452337-85f9-4e5f-9193-619651b23e14.png)
+![资源 7.png](https://learn.kittenbot.cn/2024md_pic/1610448541235-ae452337-85f9-4e5f-9193-619651b23e14.png)
 | No. | Block | Description |
 | --- | --- | --- |
 | 01 | ![image-20240329171313351](https://learn.kittenbot.cn/2024md_pic/image-20240329171313351.png) | Enable motor at a certain speed |
@@ -304,7 +306,7 @@ After loading the plugin, the following building block extensions will appear<br
 
 
 ## 📋：Driving Stepper Motor
-![resource 9.png](1610448556433-ff3bb91f-d7ff-4950-9edb-43247af39168.png)
+![resource 9.png](https://learn.kittenbot.cn/2024md_pic/1610448556433-ff3bb91f-d7ff-4950-9edb-43247af39168.png)
 | Serial Number | Block | Description |
 | --- | --- | --- |
 | 01 | ![image-20240329171404818](https://learn.kittenbot.cn/2024md_pic/image-20240329171404818.png) | Controls two stepper motors to rotate by an angle at the same time |
@@ -318,7 +320,7 @@ After loading the plugin, the following building block extensions will appear<br
 
 
 ## 📋：Drive the geekservo 9g servo motor
-![Resource 8.png](1610448572341-accb7503-ff4e-4645-89af-3551bc633daf.png)<br />![image-20240329171438649](https://learn.kittenbot.cn/2024md_pic/image-20240329171438649.png)<br />Control the servo motor to rotate to a specified angle, the angle range is -45 to 225 degrees
+![Resource 8.png](https://learn.kittenbot.cn/2024md_pic/1610448572341-accb7503-ff4e-4645-89af-3551bc633daf.png)<br />![image-20240329171438649](https://learn.kittenbot.cn/2024md_pic/image-20240329171438649.png)<br />Control the servo motor to rotate to a specified angle, the angle range is -45 to 225 degrees
 ![image-20240329171510937](https://learn.kittenbot.cn/2024md_pic/image-20240329171510937.png)
 
 
@@ -326,7 +328,7 @@ After loading the plugin, the following building block extensions will appear<br
 
 
 ## 📋：Drive Geek servo 2kg servo
-![image.png](1612692164855-29011c64-9640-451e-9a62-109dc7d1e760.png)
+![image.png](https://learn.kittenbot.cn/2024md_pic/1612692164855-29011c64-9640-451e-9a62-109dc7d1e760.png)
 ![image-20240329171530841](https://learn.kittenbot.cn/2024md_pic/image-20240329171530841.png)<br />Control the 2kg servo to rotate to a specified angle, the angle range is 0 to 360 degrees
 ![image-20240329171554225](https://learn.kittenbot.cn/2024md_pic/image-20240329171554225.png)
 
@@ -335,7 +337,7 @@ After loading the plugin, the following building block extensions will appear<br
 
 
 ## 📋: Drive a common blue 9g servo
-![image.png](1612692200383-7b574655-b088-4ae0-b91e-bf373dd22fa8.png)
+![image.png](https://learn.kittenbot.cn/2024md_pic/1612692200383-7b574655-b088-4ae0-b91e-bf373dd22fa8.png)
 ![image-20240329171617137](https://learn.kittenbot.cn/2024md_pic/image-20240329171617137.png)<br />Control the blue 9g servo to rotate to a specified angle, ranging from 0 to 180 degrees
 ![image-20240329171637802](https://learn.kittenbot.cn/2024md_pic/image-20240329171637802.png)
 
@@ -344,7 +346,7 @@ After loading the plugin, the following building block extensions will appear<br
 
 
 ## 📋：Connecting to the Robotbit Ultrasonic
-![Robotbit-Ultrasonic.png](1623424405895-37e1c0a6-a6a0-4e0f-a698-034bf8cfa5ce.png)
+![Robotbit-Ultrasonic.png](https://learn.kittenbot.cn/2024md_pic/1623424405895-37e1c0a6-a6a0-4e0f-a698-034bf8cfa5ce.png)
 
 
 ![image-20240329171718057](https://learn.kittenbot.cn/2024md_pic/image-20240329171718057.png)
@@ -363,7 +365,7 @@ Purchase Link: <br />
 [https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-21482550023.12.1a635d5fCeInSr&id=605430480347](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-21482550023.12.1a635d5fCeInSr&id=605430480347)
 Introduction: Only recommended for advanced users! Mainly used for 2.4G wireless communication with Microbit. Bluetooth is generally not used unless there is a special requirement <br />
 For more detailed tutorials, please refer to [Wireless SD Module Tutorial Details Page](https://www.yuque.com/kittenbot/hardwares/meowbit-sd)<br />
-![image.png](1625990622984-817fec79-9d98-4776-9890-4b51cfcc8066.png)
+![image.png](https://learn.kittenbot.cn/2024md_pic/1625990622984-817fec79-9d98-4776-9890-4b51cfcc8066.png)
 
 
 
@@ -371,14 +373,20 @@ For more detailed tutorials, please refer to [Wireless SD Module Tutorial Detail
 
 ## Release Notes
 ---
-2024-3-29
+​		2024-3-29
+
 - Modify Quick Start
-2024-3-20
+
+  2024-3-20
+
 - Update document content based on latest status
-2021-7-11
+  2021-7-11
+
 - Add onboard sensor examples
+
 - Add micro-class link tutorial
-2020-9-22
+  2020-9-22
+
 - Add quick start tutorial
 
 
