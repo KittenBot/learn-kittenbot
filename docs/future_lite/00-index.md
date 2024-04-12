@@ -14,25 +14,24 @@ It can save multiple custom programs, and has built-in battery and charging circ
 
 ## Parameters:
 
-Main control chip: ESP32-S3, Xtensa32-bit LX7 dual-core processor, main frequency up to 240 MHz 
-Charging voltage: 5V 
-Working voltage: 3.3V 
-Working current: <1A 
-Main control screen: color screen, 160x128, TFT 
-Programming keys: 3 (A, M, B keys)
-Reset key: 1 
-RGB light: 3 side-mounted WS2812 full-color lamp beads 
-Battery capacity: 450mAh 
-Battery display: 4-level battery green LED 
-Power indicator: red LED 
-Download port and charging port: USB TYPE-C 
-Motor drive: 2-way 2PIN PH2.0 
-Programming port: 4 3PIN PH2.0 compatible with Sugar Cube module system 
-Serial port: 2-way 4PIN PH2.0 
-I2C port: 2-way 4PIN PH2.0
-On-board programming resources: microphone, buzzer, gyroscope, light-sensitive LED 
-Dimensions: length x width x height: 56x56x21.5mm 
-Structural mounting holes: 8 pin holes on the back, two pin holes on the left and right sides
+Main control chip: ESP32-S3, Xtensa32-bit LX7 dual-core processor, main frequency up to 240 MHz <br/>Charging voltage: 5V <br/>
+Working voltage: 3.3V <br/>
+Working current: <1A <br/>
+Main control screen: color screen, 160x128, TFT <br/>
+Programming keys: 3 (A, M, B keys)<br/>
+Reset key: 1 <br/>
+RGB light: 3 side-mounted WS2812 full-color lamp beads <br/>
+Battery capacity: 450mAh <br/>
+Battery display: 4-level battery green LED <br/>
+Power indicator: red LED <br/>
+Download port and charging port: USB TYPE-C <br/>
+Motor drive: 2-way 2PIN PH2.0 <br/>
+Programming port: 4 3PIN PH2.0 compatible with Sugar Cube module system <br/>
+Serial port: 2-way 4PIN PH2.0 <br/>
+I2C port: 2-way 4PIN PH2.0<br/>
+On-board programming resources: microphone, buzzer, gyroscope, light-sensitive LED <br/>
+Dimensions: length x width x height: 56x56x21.5mm <br/>
+Structural mounting holes: 8 pin holes on the back, two pin holes on the left and right sides<br/>
 
 ## Size Chart
 
@@ -83,9 +82,9 @@ You can use the U disk view format to directly change the .py program in the U d
 
 ## Frequently Asked Questions and Answers
 
-0. The device suddenly gets stuck while loading when turned on...
-   ![image.png](https://learn.kittenbot.cn/2024md_pic/1699322825576-763f478b-17ef-4fbd-9e6c-5e3c03087e0d.png) 
-   The boot.bmp image in the USB flash drive has been lost or deleted by mistake. Copy the boot.bmp image to the USB flash drive to solve the problem. The following is the boot.bmp 
+0. The device suddenly gets stuck while loading when turned on...<br/>
+   ![image.png](https://learn.kittenbot.cn/2024md_pic/1699322825576-763f478b-17ef-4fbd-9e6c-5e3c03087e0d.png) <br/>
+   The boot.bmp image in the USB flash drive has been lost or deleted by mistake. Copy the boot.bmp image to the USB flash drive to solve the problem. The following is the boot.bmp <br/>
    ![boot.bmp](https://learn.kittenbot.cn/2024md_pic/1699322906377-21f1f0fc-cf82-4cfa-a259-f866e24b18c2.bmp)
 1. How to connect to a computer for programming?
    Use the original data cable to connect the computer and the motherboard. If the data cable and USB port are normal, a Future USB flash drive (English for future) will appear on the computer.
@@ -129,7 +128,7 @@ You can use the U disk view format to directly change the .py program in the U d
 17. Does it support Bluetooth programming now?
     not support
 18. How to select other programs in the motherboard?
-    Press the M key on the startup interface (or hold down the M key and then start up) to enter the menu 
+    Press the M key on the startup interface (or hold down the M key and then start up) to enter the menu <br/>
 
     ![img](https://learn.kittenbot.cn/2024md_pic/1686653064067-d3622efe-8fe8-44a5-9b68-e8a4b18ae3e5.png)
 19. How to rerun the program?
