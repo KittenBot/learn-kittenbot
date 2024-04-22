@@ -1,5 +1,5 @@
 ---
-title: Sugar Cube - Touch module
+title: Sugar - Touch module
 sidebar_position: 5
 ---
 ## Features
@@ -18,25 +18,21 @@ The module contains a built-in touch detection chip that touches the housing via
 
 ![Future Board Lite Main Board 3 - Copy.png](https://learn.kittenbot.cn/2024md_pic/1698389055888-5b56763c-0ee0-42b2-aab5-6533ee06012f.png)
 
-|                                                              |                    | Future Board Lite Interface | Cable                            |                                                              |
-| ------------------------------------------------------------ | ------------------ | --------------------------- | -------------------------------- | ------------------------------------------------------------ |
+|                                                                                                                       |                    | Future Board Lite Interface | Cable                            |                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![Sugar Touch Module.png](https://learn.kittenbot.cn/2024md_pic/1698303888937-53265e7a-c52d-4d0a-ab81-d8572ba50712.png) | Sugar Touch Module | Port3                       | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
-warning          
+warning
 
-Can be connected to Port1, Port2, Port3, Port4          
+Can be connected to Port1, Port2, Port3, Port4
 
 When programming, make sure the interface is consistent with the actual one.
 
-
-
 ## Blocks - Function Description
 
-| No.  | Block Image                                                  | Block Function                             |
-| ---- | ------------------------------------------------------------ | ------------------------------------------ |
-| 1    | ![image-20240316164804837](https://learn.kittenbot.cn/2024md_pic/image-20240316164804837.png) | Detect whether the touch sensor is pressed |
-
-
+| No. | Block Image                                                                                 | Block Function                             |
+| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1   | ![image-20240316164804837](https://learn.kittenbot.cn/2024md_pic/image-20240316164804837.png) | Detect whether the touch sensor is pressed |
 
 ## Program-Full program
 
@@ -57,13 +53,7 @@ When programming, make sure the interface is consistent with the actual one.
 
 Run the program offline to see the effect
 
-
-
-
-
 ## Using Robotbit on Microbit
-
-
 
 ![Robotbit_compressed.png](https://learn.kittenbot.cn/2024md_pic/1709112761000-c84282ba-fe71-45c1-8ad4-8e7f6fc4738f.png)
 
@@ -84,27 +74,19 @@ Search for Sugar in extensions, click Add
 
 ![image.png](https://learn.kittenbot.cn/2024md_pic/1709782803138-922859f0-efb3-4817-b7f5-a4d1c43009ca.png)
 
-|                                                              |                    | Microbit Interface | Wire                            |                                                              |
-| ------------------------------------------------------------ | ------------------ | ------------------ | ------------------------------- | ------------------------------------------------------------ |
+|                                                                                                                       |                    | Microbit Interface | Wire                            |                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![Sugar Touch Module.png](https://learn.kittenbot.cn/2024md_pic/1698303888937-53265e7a-c52d-4d0a-ab81-d8572ba50712.png) | Sugar Touch Module | P0                 | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
+warning
 
-
-warning         
-
- Support connecting to P0, P1, P13, etc.<br />When programming, pay attention to keep the interface consistent with the actual.
-
-
-
-
+ Support connecting to P0, P1, P13, etc.`<br />`When programming, pay attention to keep the interface consistent with the actual.
 
 ## Blocks - Function Description
 
-| No.  | Block Image                                                  | Block Function                           |
-| ---- | ------------------------------------------------------------ | ---------------------------------------- |
-| 1    | ![image-20240316165538686](https://learn.kittenbot.cn/2024md_pic/image-20240316165538686.png) | Read whether the touch module is touched |
-
-
+| No. | Block Image                                                                                 | Block Function                           |
+| --- | ------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1   | ![image-20240316165538686](https://learn.kittenbot.cn/2024md_pic/image-20240316165538686.png) | Read whether the touch module is touched |
 
 ## Case: Touch Detection
 

@@ -1,5 +1,5 @@
 ---
-title: Cube Sugar - Altitude Pressure Module
+title: Sugar - Altitude Pressure Module
 sidebar_position: 23
 ---
 ## Functions
@@ -22,7 +22,7 @@ The Earth has gravity, and the closer an object is to the center of the earth, t
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------- | --------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![png9009](https://learn.kittenbot.cn/2024md_pic/1698304512143-5134f34b-12a3-49ee-9ea6-c5c8f97d393e.png) | Sugar cube pressure altitude module | I2C                         | Black PH2.0-4Pin interface wire | ![untitled.108.png](https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png) |
 
-Connection supported on I2C`<br />`Both I2C interfaces are the same     Note: Do not connect to the UART port
+Connection supported on I2C `<br />`Both I2C interfaces are the same     Note: Do not connect to the UART port
 
 ## Blocks-Function Description
 
@@ -63,7 +63,7 @@ Use the Makecode programming platform
 
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
 
-![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)`<br />`Search Sugar in extensions, click add
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png) `<br />`Search Sugar in extensions, click add
 
 ## Blocks-Function Description
 
@@ -82,12 +82,12 @@ Use the Makecode programming platform
 
 ## Example Display data
 
-Press the A key to switch display different data`<br />`
+Press the A key to switch display different data `<br />`
 
 ![image-20240311173255764](https://learn.kittenbot.cn/2024md_pic/image-20240311173255764.png)
 
-Press the B key, display corresponding data according to the mode`<br />`
+Press the B key, display corresponding data according to the mode `<br />`
 
 ![image-20240311173323483](https://learn.kittenbot.cn/2024md_pic/image-20240311173323483.png)
 
-If the temperature exceeds the set value, a sad face is displayed`<br />`![image-20240311173336824](https://learn.kittenbot.cn/2024md_pic/image-20240311173336824.png)
+If the temperature exceeds the set value, a sad face is displayed `<br />`![image-20240311173336824](https://learn.kittenbot.cn/2024md_pic/image-20240311173336824.png)
