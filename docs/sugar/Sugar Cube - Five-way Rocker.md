@@ -4,7 +4,8 @@ sidebar_position: 25
 ---
 ## Introduction
 
-This is a five-way joystick, which can detect the values of the four directions of the X and Y horizontal axes and the vertical axis press. It is a relatively special I2C module.`<br />`![image.png](https://learn.kittenbot.cn/2024md_pic/1623413995971-67150311-1b88-4f2a-8dce-10ee37319192.png)
+This is a five-way joystick, which can detect the values of the four directions of the X and Y horizontal axes and the vertical axis press. It is a relatively special I2C module.
+![image.png](https://learn.kittenbot.cn/2024md_pic/1623413995971-67150311-1b88-4f2a-8dce-10ee37319192.png)
 
 ## Parameters
 
@@ -20,7 +21,9 @@ This is a five-way joystick, which can detect the values of the four directions 
 
 ---
 
-Connect the joystick module to the Robotbit Edu's blue I2C interface using a 4PIN terminal wire. `<br />`Turn on the Robotbit power supply to see the red light at the bottom of the photosensitive module light up (the module is normally powered) `<br />`![joystick.png](https://learn.kittenbot.cn/2024md_pic/1623414213543-0275d065-c4d6-4cc6-8602-d0b6590e0dda.png)
+Connect the joystick module to the Robotbit Edu's blue I2C interface using a 4PIN terminal wire.
+Turn on the Robotbit power supply to see the red light at the bottom of the photosensitive module light up (the module is normally powered) 
+![joystick.png](https://learn.kittenbot.cn/2024md_pic/1623414213543-0275d065-c4d6-4cc6-8602-d0b6590e0dda.png)
 
 ## Coding
 
@@ -30,7 +33,8 @@ Connect the joystick module to the Robotbit Edu's blue I2C interface using a 4PI
 
 You can concatenate strings (numbers will be converted to strings) using the Join block under the Operation block category.
 :::info
-Due to poor online interaction real-time performance, it is recommended to upload the program and run it on the Future board. `<br />`If you are not sure how to upload offline, please refer to [**Quick Start**](https://www.yuque.com/kittenbot/hardwares/eytesg#Ue4Lw)
+Due to poor online interaction real-time performance, it is recommended to upload the program and run it on the Future board. 
+If you are not sure how to upload offline, please refer to [**Quick Start**](https://www.yuque.com/kittenbot/hardwares/eytesg#Ue4Lw)
 :::
 
 ![image-20240315120519886](https://learn.kittenbot.cn/2024md_pic/image-20240315120519886.png)
@@ -78,11 +82,12 @@ Print the data of the X and Y axes on the Future Board screen. When the joystick
 
 ## Programming platform
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Use Makecode programming platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Use Makecode programming platform
 
 ## Add Sugar Plugin
 
-![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)`<br />`
+![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png) 
 Search for Sugar in the extensions, click Add
 
 ## Building Blocks-Function Description

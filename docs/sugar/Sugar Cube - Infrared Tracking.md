@@ -4,19 +4,19 @@ sidebar_position: 7
 ---
 ## Introduction
 
-The module is able to emit and receive infrared light at a close distance, and it implements the function of black line patrol or obstacle detection at an ultra-close distance through the principle of white area reflecting light while black area absorbing light. The digital level will change after the trigger.`<br />`![image.png](https://learn.kittenbot.cn/2024md_pic/1623395428938-72735b92-d2c7-4fbf-876c-fa2a352f337c.png)
+The module is able to emit and receive infrared light at a close distance, and it implements the function of black line patrol or obstacle detection at an ultra-close distance through the principle of white area reflecting light while black area absorbing light. The digital level will change after the trigger.
+![image.png](https://learn.kittenbot.cn/2024md_pic/1623395428938-72735b92-d2c7-4fbf-876c-fa2a352f337c.png)
 
 ## Parameters
 
 ---
 
-| **Size**                                                                 | 24 x 24 x 16 mm                                                                                                                                               |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Weight**                                                               | 5 g                                                                                                                                                           |
-| **Signal**                                                               | Digital input (with blue indicator light)<br />1 (blue light off):<br />- Black line detected<br />- Reflectance of infrared light is too weak to be detected |
-| 0 (blue light on):<br />- Within detection range and no black line is detected |                                                                                                                                                               |
-|                                                                                |                                                                                                                                                               |
-| **Detection Range**                                                      | 1~14**mm**                                                                                                                                              |
+| **Size**            | 24 x 24 x 16 mm                                                                                                                                                                                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Weight**          | 5 g                                                                                                                                                                                                                                                     |
+| **Signal**          | Digital input (with blue indicator light)<br />1 (blue light off):<br />- Black line detected<br />- Reflectance of infrared light is too weak to be detected<br /><br />0(blue light on)<br />-  Within detection range and no black line is detected |
+| **Detection Range** | 1~14**mm**                                                                                                                                                                                                                                        |
+
 
 ## Usage on Microbit
 
@@ -24,12 +24,14 @@ The module is able to emit and receive infrared light at a close distance, and i
 
 ## Programming Platform
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Use the Makecode programming platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Use the Makecode programming platform
 
 ## Add Sugar Plugin
 
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)`<br />`Search for Sugar in the extensions and click on Add
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png) 
+Search for Sugar in the extensions and click on Add
 
 ## Sensor Block - Feature Description
 
@@ -53,7 +55,9 @@ The module is able to emit and receive infrared light at a close distance, and i
 
 ---
 
-Connect the 3PIN terminal wire to P1 of Robotbit Edu.`<br />`Turn on the Robotbit power supply and you can see the red light at the bottom of the LED module light up (indicating that the module is powered normally)`<br />`
+Connect the 3PIN terminal wire to P1 of Robotbit Edu.
+Turn on the Robotbit power supply and you can see the red light at the bottom of the LED module light up (indicating that the module is powered normally)
+
 ![tracker.png](https://learn.kittenbot.cn/2024md_pic/1623396977794-e8bd1c93-eb47-47e3-8e1c-b42561ae9473.png)
 
 ## Programming

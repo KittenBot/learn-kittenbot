@@ -13,7 +13,7 @@ sidebar_position: 4
 Signal
 
 Digital output
-1 (high level): module switch is in contact 
+1 (high level): module switch is in contact
 0 (low level): module switch is not in contact
 
 ## Module principle
@@ -58,13 +58,13 @@ Using the offline download mode to run the program to check the effects
 
 ## Programming Platform
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)
 Use the Makecode programming platform
 
 ## Add the Sugar plugin
 
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png) 
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)
 
 Search for Sugar in the extensions, click Add
 
@@ -76,7 +76,7 @@ Search for Sugar in the extensions, click Add
 | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | ------------------ | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![Sugar Cube Collision Module.png](https://learn.kittenbot.cn/2024md_pic/1698310429465-6c5c021a-d552-4453-822c-7badf44a152a.png) | Sugar Cube Collision Module | P0                 | White PH2.0-3Pin Interface Line | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
-warning  
+warning
 Support connection at P0, P1, P8, P13, etc.
 Keep the interface consistent with the actual one during programming
 

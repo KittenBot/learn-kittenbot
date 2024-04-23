@@ -26,11 +26,13 @@ An active buzzer is an acoustic module that combines a vibrating diaphragm, driv
 
 ![未标题-2.png](https://learn.kittenbot.cn/2024md_pic/1706866491269-ef6a4bfb-8cb1-44ea-b45e-caba50f73320.png)
 
-|                                                                                                                                        |                            | Future Board Lite Interface | Wire                             |                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | --------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![2有源蜂鸣器.png](https://learn.kittenbot.cn/2024md_pic/1706865759331-eb476b34-26ec-4618-ab7c-b8a984785e0f.png)                         | Sugar Cube - Buzzer Module | Port3                       | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
-| warning:                                                                                                                               |                            |                             |                                  |                                                                                                                 |
-| Supports being connected to Port1, Port2, Port3, Port4<br />Make sure the interface and the actual one are consistent when programming |                            |                             |                                  |                                                                                                                 |
+|                                                                                                                |                            | Future Board Lite Interface | Wire                             |                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------- | --------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![2有源蜂鸣器.png](https://learn.kittenbot.cn/2024md_pic/1706865759331-eb476b34-26ec-4618-ab7c-b8a984785e0f.png) | Sugar Cube - Buzzer Module | Port3                       | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
+
+warning:
+Supports being connected to Port1, Port2, Port3, Port4
+Make sure the interface and the actual one are consistent when programming
 
 ## Block - Function Description
 
@@ -56,12 +58,14 @@ Run the program offline to see the result
 
 ## Programming Platform
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Using Makecode programming platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Using Makecode programming platform
 
 ## Add Sugar plug-in
 
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)`<br />`Search for Sugar in the extension, click Add
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)
+Search for Sugar in the extension, click Add
 
 ## Circuit Connection
 

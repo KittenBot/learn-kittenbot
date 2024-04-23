@@ -10,7 +10,7 @@ sidebar_position: 31
 
 ---
 
-Fangtang GPS is a multi-mode satellite navigation and positioning module that supports satellite positioning systems such as BeiDou 3rd generation/GPS/GLONASS, and supports multi-system joint positioning and single-system independent positioning modules. It is based on a highly sensitive positioning chip, which can provide accurate positioning information and is suitable for various positioning applications, such as in-vehicle navigation, IoT device tracking, etc.`<br />`
+Fangtang GPS is a multi-mode satellite navigation and positioning module that supports satellite positioning systems such as BeiDou 3rd generation/GPS/GLONASS, and supports multi-system joint positioning and single-system independent positioning modules. It is based on a highly sensitive positioning chip, which can provide accurate positioning information and is suitable for various positioning applications, such as in-vehicle navigation, IoT device tracking, etc.
 The module adopts an integrated RF baseband design, integrating DC/DC, LDO, RF front end, low-power application processor, RAM, Flash storage, RTC and power management, which can be powered by button battery or farad capacitor to RTC, backup RAM to reduce the first positioning time, can be widely used in vehicle positioning and navigation equipment, high-precision timing, safety monitoring, surveying and mapping, precision agriculture and other fields that require navigation/positioning/timing.
 
 ## Hardware Features
@@ -44,9 +44,11 @@ In-vehicle navigation, tracking of IoT devices, location-based services, etc.
 
 ---
 
-Using Futureboard Lite as an example, obtain longitude and latitude information via GPS module`<br />`
-Hardware Wiring:`<br />`
-The communication interface of the GPS module is a serial port, thus it is connected to the UART0 interface of Futureboard Lite`<br />`
+Using Futureboard Lite as an example, obtain longitude and latitude information via GPS module
+
+### Hardware Wiring:
+
+The communication interface of the GPS module is a serial port, thus it is connected to the UART0 interface of Futureboard Lite
 ![image.png](https://learn.kittenbot.cn/2024md_pic/1708509761054-465dbb77-f888-43b4-abf5-af70cbceedbf.png)
 Software Programming:
 
@@ -60,11 +62,11 @@ Software Programming:
 
   ![image-20240315123220980](https://learn.kittenbot.cn/2024md_pic/image-20240315123220980.png)
 - Write the program
-  Program logic:`<br />`
-  Detect whether GPS information has been received. When GPS information is received, display it on the screen. Otherwise, display a prompt on the screen to move to an open area.`<br />`
+  Program logic:
+  Detect whether GPS information has been received. When GPS information is received, display it on the screen. Otherwise, display a prompt on the screen to move to an open area.
   ![blocksPng-1710484621252](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710484621252.png)
 - Download the program
-  ![](https://learn.kittenbot.cn/2024md_pic/image-20240315143741337.png)
+  ![img](https://learn.kittenbot.cn/2024md_pic/image-20240315143741337.png)
 
 ## Usage on Microbit
 
@@ -72,11 +74,13 @@ Software Programming:
 
 ## Coding Platforms
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Use Makecode Coding Platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Use Makecode Coding Platform
 
 ## Adding Sugar plugin
 
-![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)`<br />`Search Sugar in Extensions, click add
+![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png) 
+Search Sugar in Extensions, click add
 
 ## Building Blocks Function Description
 
@@ -86,7 +90,11 @@ Software Programming:
 
 ---
 
-**Q: Why can the GPS module not be used indoors?**`<br />`A: The GPS module needs to receive satellite signals, and can only receive signals in open outdoor spaces.
-**Q: Where else can the GPS module be used besides for positioning?**`<br />`A: The GPS module can provide latitude and longitude information, as well as UTC time and altitude information.
-**Q: What is the positioning accuracy of the GPS module?**`<br />`A: 2 meters
-**Q: Can the GPS module display a positioning map on the screen of the motherboard?**`<br />`A: No, the performance is insufficient. Special hardware and software are required to achieve this positioning effect.
+**Q: Why can the GPS module not be used indoors?**
+A: The GPS module needs to receive satellite signals, and can only receive signals in open outdoor spaces.
+**Q: Where else can the GPS module be used besides for positioning?**
+A: The GPS module can provide latitude and longitude information, as well as UTC time and altitude information.
+**Q: What is the positioning accuracy of the GPS module?**
+A: 2 meters
+**Q: Can the GPS module display a positioning map on the screen of the motherboard?**
+A: No, the performance is insufficient. Special hardware and software are required to achieve this positioning effect.

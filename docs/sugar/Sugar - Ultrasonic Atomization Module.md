@@ -11,7 +11,9 @@ sidebar_position: 12
 
 Convert water to mist to increase humidity
 
-**Signal**  :Digital input `<br />`1 (High level): Turn on the humidifier `<br />`0 (Low level): Turn off the humidifier
+**Signal**  :Digital input
+1 (High level): Turn on the humidifier 
+0 (Low level): Turn off the humidifier
 
 ## Module principle
 
@@ -24,8 +26,11 @@ Ultrasonic atomizer uses electronic high-frequency oscillation (oscillation freq
 |                                                                                                                                             |                                          | Future Board Lite Interface | Wire                            |                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![Sugar Cube Ultrasonic Misting Module (2).png](https://learn.kittenbot.cn/2024md_pic/1698301335290-bdf7a6b2-aa90-47a1-bb81-fe1ec9d079d7.png) | Sugar Cube Ultrasonic Atomization Module | Port3                       | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
-| warning                                                                                                                                     |                                          |                             |                                 |                                                                                                                 |
-| Supports connecting to Port1, Port2, Port3, Port4<br />Pay attention that the interface is consistent with the actual when programming.     |                                          |                             |                                 |                                                                                                                 |
+
+warning  
+Supports connecting to Port1, Port2, Port3, Port4
+Pay attention that the interface is consistent with the actual when programming.
+
 
 ## Building Block - Function Description
 
@@ -39,9 +44,10 @@ Ultrasonic atomizer uses electronic high-frequency oscillation (oscillation freq
 
 ## Program - Function description
 
-Set the color screen to dot matrix mode`<br />`
-If press key A on Maqueen Lite, wait for release, display icon, open atomization module`<br />`
-If press key B on Maqueen Lite, wait for release, display icon, close atomization module`<br />`
+Set the color screen to dot matrix mode
+If press key A on Maqueen Lite, wait for release, display icon, open atomization module
+If press key B on Maqueen Lite, wait for release, display icon, close atomization module
+
 
 ## Using Kittenblock
 
@@ -53,7 +59,8 @@ Run the program offline to check the effect
 
 ## Coding platforms
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Using Makecode coding platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Using Makecode coding platform
 
 ## Add Sugar plug-in
 
@@ -69,8 +76,9 @@ Search for Sugar in extensions, click Add
 |                                                                                                                                        |                                 | Microbit Interface | Wire                            |                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------ | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![Sugar Ultrasonic Fogging Module (2).png](https://learn.kittenbot.cn/2024md_pic/1698301335290-bdf7a6b2-aa90-47a1-bb81-fe1ec9d079d7.png) | Sugar Ultrasonic Fogging Module | P0                 | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
-| warning                                                                                                                                |                                 |                    |                                 |                                                                                                                 |
-| Support connecting to P0, P1, P2, P8, etc.<br />When programming, make sure the interface matches the actual one.                      |                                 |                    |                                 |                                                                                                                 |
+
+warning    Support connecting to P0, P1, P2, P8, etc.
+When programming, make sure the interface matches the actual one.
 
 ## Building Block - Function Description
 

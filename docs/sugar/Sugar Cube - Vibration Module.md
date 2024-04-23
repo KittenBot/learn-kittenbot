@@ -12,7 +12,9 @@ sidebar_position: 9
 
 Controls motor rotation to achieve a vibration effect, similar to the principle of a mobile phone vibration motor
 
-**Signal**Digital input`<br />`1 (high level): Turn on vibration`<br />`0 (low level): Turn off vibration
+**Signal**Digital input
+1 (high level): Turn on vibration 
+0 (low level): Turn off vibration
 
 ## Module Principle
 
@@ -22,17 +24,19 @@ There is a motor inside, the axis of rotation of the motor is not symmetrically 
 
 ![Future_Board_Lite_Motherboard_3 - 副本.png](https://learn.kittenbot.cn/2024md_pic/1698288934990-45c33ef9-8b83-4926-b5bb-f20911f5a61c.png)
 
-|                                                                                                                                                           |                        | Future_Board_Lite_Interface | Wire                            |                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![Sugar_Vibration_Module.png](https://learn.kittenbot.cn/2024md_pic/1698287532183-366309ef-d990-40b9-af37-553d1959ba62.png)                                 | Sugar Vibration Module | Port1                       | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
-| warning                                                                                                                                                   |                        |                             |                                 |                                                                                                                 |
-| Supports connection to Port1、Port2、Port3、Port4<br />Pay attention to the consistency between the interface and the actual interface during programming |                        |                             |                                 |                                                                                                                 |
+|                                                                                                                           |                        | Future_Board_Lite_Interface | Wire                            |                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![Sugar_Vibration_Module.png](https://learn.kittenbot.cn/2024md_pic/1698287532183-366309ef-d990-40b9-af37-553d1959ba62.png) | Sugar Vibration Module | Port1                       | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
 
 ## Block Function Description
 
 | No. | Block Image                                                                                 | Block Function                         |
 | --- | ------------------------------------------------------------------------------------------- | -------------------------------------- |
 | 1   | ![image-20240321140101510](https://learn.kittenbot.cn/2024md_pic/image-20240321140101510.png) | Control the switch of vibration module |
+
+warning
+Supports connection to Port1、Port2、Port3、Port4
+Pay attention to the consistency between the interface and the actual interface during programming
 
 ## Program - Function Description
 
@@ -47,7 +51,8 @@ After pressing the button, wait for the button to be released and then start the
 
 ## Effect
 
-Press the A button to turn on the vibration module`<br />`Press the B button to turn off the vibration module
+Press the A button to turn on the vibration module 
+Press the B button to turn off the vibration module
 
 ## Use Kittenblock
 
@@ -59,7 +64,8 @@ Use the app to download and run programs offline to view results
 
 ## Programming Platform
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Use Makecode programming platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Use Makecode programming platform
 
 ## Add the Sugar plugin
 

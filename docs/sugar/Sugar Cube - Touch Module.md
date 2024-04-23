@@ -6,9 +6,10 @@ sidebar_position: 5
 
 ---
 
-| **Signal** | Digital output<br />1 (high level): touch module is pressed<br />0 (low level): touch module is not pressed |
-| ---------------- | ----------------------------------------------------------------------------------------------------------- |
-|                  |                                                                                                             |
+| **Signal** | Digital output                           |
+| ---------------- | ---------------------------------------- |
+| 1                | (high level): touch module is pressed    |
+| 0                | (low level): touch module is not pressed |
 
 ## Module Principle
 
@@ -80,7 +81,8 @@ Search for Sugar in extensions, click Add
 
 warning
 
- Support connecting to P0, P1, P13, etc.`<br />`When programming, pay attention to keep the interface consistent with the actual.
+ Support connecting to P0, P1, P13, etc.
+When programming, pay attention to keep the interface consistent with the actual.
 
 ## Blocks - Function Description
 

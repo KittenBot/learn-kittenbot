@@ -23,20 +23,21 @@ A digital tube is a common display device often used for digital display in devi
 |                                                                                                                |                                | Future board Lite interface | Cable                            |                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------ | --------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | ![2数码管模块.png](https://learn.kittenbot.cn/2024md_pic/1706865741220-a0aa3f75-a230-4f45-a4e2-d9bce37160bd.png) | Sugar cube digital tube module | I2C                         | Black PH2.0-4Pin interface cable | ![PH2.0-4pin.png](https://learn.kittenbot.cn/2024md_pic/1706866506331-aff5ef84-0413-4a5e-90bc-5a476728eddb.png) |
-| warning                                                                                                        |                                |                             |                                  |                                                                                                               |
-| Either I2C terminal can be connected to                                                                        |                                |                             |                                  |                                                                                                               |
+
+warning
+Either I2C terminal can be connected to
 
 ## Building Block - Function Description
 
 | Serial Number | Building Block Image                                                                        | Building Block Function                                                                                                 |
-| ------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 1             | ![blocksPng-1710408493018](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408493018.png) | Displays digital number (integer 0-9999)                                                                                |
-| 2             | ![blocksPng-1710408496958](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408496958.png) | Unit displays the content of the digital tube, digits 0-15, and digits greater than 10 will be converted to letters A-F |
-| 3             | ![blocksPng-1710408500517](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408500517.png) | Displays "-" at the specified position                                                                                  |
-| 4             | ![blocksPng-1710408504109](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408504109.png) | Controls the on/off of ":" for the digital tube module                                                                  |
-| 5             | ![blocksPng-1710408508198](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408508198.png) |                                                                                                                         |
-| 6             | ![blocksPng-1710408518142](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408518142.png) | Controls the brightness of the digital tube                                                                             |
-| 7             | ![blocksPng-1710408521606](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408521606.png) | Clears display, turns on display, turns off display for the digital tube                                                |
+| :-----------: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+|       1       | ![blocksPng-1710408493018](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408493018.png) | Displays digital number (integer 0-9999)                                                                                |
+|       2       | ![blocksPng-1710408496958](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408496958.png) | Unit displays the content of the digital tube, digits 0-15, and digits greater than 10 will be converted to letters A-F |
+|       3       | ![blocksPng-1710408500517](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408500517.png) | Displays "-" at the specified position                                                                                  |
+|       4       | ![blocksPng-1710408504109](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408504109.png) | Controls the on/off of ":" for the digital tube module                                                                  |
+|       5       | ![blocksPng-1710408508198](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408508198.png) |                                                                                                                         |
+|       6       | ![blocksPng-1710408518142](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408518142.png) | Controls the brightness of the digital tube                                                                             |
+|       7       | ![blocksPng-1710408521606](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710408521606.png) | Clears display, turns on display, turns off display for the digital tube                                                |
 
 ## Program 1 - Full Program
 
@@ -74,7 +75,8 @@ Run the program offline to view the effect
 
 ## Programming Platform
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Use Makecode Programming Platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Use Makecode Programming Platform
 
 ## Add Sugar Cube Plugin
 
@@ -95,14 +97,14 @@ In the extensions, search for Sugar, click Add
 ## Building Block - Function Description
 
 | Serial Number | Building Block Image                                                                        | Building Block Function                                                                    |
-| ------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| 1             | ![image-20240315115239560](https://learn.kittenbot.cn/2024md_pic/image-20240315115239560.png) | Controls the opening of the digital tube                                                   |
-| 2             | ![image-20240315115249998](https://learn.kittenbot.cn/2024md_pic/image-20240315115249998.png) | Controls the closing of the digital tube                                                   |
-| 3             | ![image-20240315115304058](https://learn.kittenbot.cn/2024md_pic/image-20240315115304058.png) | Displays clear                                                                             |
-| 4             | ![image-20240315115424502](https://learn.kittenbot.cn/2024md_pic/image-20240315115424502.png) | From left to right, the position is 0-3, and the hexadecimal data displayed is 0-9 and a-f |
-| 5             | ![image-20240315115403287](https://learn.kittenbot.cn/2024md_pic/image-20240315115403287.png) | Displays a decimal data                                                                    |
-| 6             | ![image-20240315115411732](https://learn.kittenbot.cn/2024md_pic/image-20240315115411732.png) | Displays a hexadecimal data                                                                |
-| 7             | ![image-20240315115327771](https://learn.kittenbot.cn/2024md_pic/image-20240315115327771.png) | Turns on the decimal point position of the module                                          |
+| :-----------: | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+|       1       | ![image-20240315115239560](https://learn.kittenbot.cn/2024md_pic/image-20240315115239560.png) | Controls the opening of the digital tube                                                   |
+|       2       | ![image-20240315115249998](https://learn.kittenbot.cn/2024md_pic/image-20240315115249998.png) | Controls the closing of the digital tube                                                   |
+|       3       | ![image-20240315115304058](https://learn.kittenbot.cn/2024md_pic/image-20240315115304058.png) | Displays clear                                                                             |
+|       4       | ![image-20240315115424502](https://learn.kittenbot.cn/2024md_pic/image-20240315115424502.png) | From left to right, the position is 0-3, and the hexadecimal data displayed is 0-9 and a-f |
+|       5       | ![image-20240315115403287](https://learn.kittenbot.cn/2024md_pic/image-20240315115403287.png) | Displays a decimal data                                                                    |
+|       6       | ![image-20240315115411732](https://learn.kittenbot.cn/2024md_pic/image-20240315115411732.png) | Displays a hexadecimal data                                                                |
+|       7       | ![image-20240315115327771](https://learn.kittenbot.cn/2024md_pic/image-20240315115327771.png) | Turns on the decimal point position of the module                                          |
 
 ## Case 1: Key Count - Decimal
 
