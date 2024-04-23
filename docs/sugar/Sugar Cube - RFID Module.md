@@ -21,11 +21,18 @@ RFID (Radio Frequency Identification) is a wireless communication technology tha
 
 ## Wiring diagram
 
-`<br />`Note: You can choose either of the two i2c interfaces on the right side of the mini future board`<br />`![image.png](https://learn.kittenbot.cn/2024md_pic/1696918410548-dd384ee7-d3c0-4506-91f9-77f5b9744217.png)
+
+Note: You can choose either of the two i2c interfaces on the right side of the mini future board
+![image.png](https://learn.kittenbot.cn/2024md_pic/1696918410548-dd384ee7-d3c0-4506-91f9-77f5b9744217.png)
 
 ## Programming
 
-Program description:`<br />`Execute related operations through the three buttons on the mini future board`<br />`A: Display card ID`<br />`M: Write data to card partition 0`<br />`B: Read card partition 0`<br />`![blocksPng-1711002053635](https://learn.kittenbot.cn/2024md_pic/blocksPng-1711002053635.png)
+Program description:
+Execute related operations through the three buttons on the mini future board
+A: Display card ID
+M: Write data to card partition 0
+B: Read card partition 0 
+![blocksPng-1711002053635](https://learn.kittenbot.cn/2024md_pic/blocksPng-1711002053635.png)
 
 # Using  on FutureLite Board
 
@@ -39,8 +46,8 @@ Program description:`<br />`Execute related operations through the three buttons
 
 ## Programming
 
-`<br />`Program description: During startup, the program will display the card number if an RFID tag is detected, and you can use the Data Panel Button A to write data and Button B to view data.
-`<br />`
+Program description: During startup, the program will display the card number if an RFID tag is detected, and you can use the Data Panel Button A to write data and Button B to view data.
+
 
 ![blocksPng-1710573205592](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710573205592.png)
 
@@ -50,12 +57,14 @@ Program description:`<br />`Execute related operations through the three buttons
 
 ## Programming platforms
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Use the Makecode programming platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Use the Makecode programming platform
 
 ## Add sugar plugin
 
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)`<br />`
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png) 
+
 Search for sugar in the extension, click add
 
 ## Wiring diagram

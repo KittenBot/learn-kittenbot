@@ -92,9 +92,8 @@ Search for "Sugar" in the extensions, click "Add"
 |                                                                                                                                             |                       | Future Board Lite interface | Use cable                        |                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | --------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![Sugar cube 4x4 touch keyboard module (2).png](https://learn.kittenbot.cn/2024md_pic/1698304525229-b89f562e-2c4a-47df-a831-39e25f5a6e56.png) | Sugar cube LED module | UART                        | Black PH2.0-4Pin interface cable | ![untitled.108.png](https://learn.kittenbot.cn/2024md_pic/1694743359848-a54b5dae-be60-4e01-aa2f-f6f434429c91.png) |
-| Support connecting to P2 and P12                                                                                                            |                       |                             |                                  |                                                                                                                 |
 
-Pay attention to interface consistency with the actual interface during programming
+Support connecting to P2 and P12,Pay attention to interface consistency with the actual interface during programming
 
 ## Example 1: Read the button and display
 

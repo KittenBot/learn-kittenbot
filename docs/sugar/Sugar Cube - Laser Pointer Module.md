@@ -10,9 +10,7 @@ sidebar_position: 13
 
 Open laser emission after receiving control signal
 
-| **Signal** | timing signal |
-| ---------------- | ------------- |
-|                  |               |
+Signal:Timing Signal
 
 ## Principle of the Module
 
@@ -22,11 +20,12 @@ The laser emitter produces laser through the effect of stimulated emission of ra
 
 ![Untitled-1.png](https://learn.kittenbot.cn/2024md_pic/1706866350038-8b100f3a-dc92-4ffc-ac05-adb48d4863bc.png)
 
-|                                                                                                                                                           |                                 | Future Board Lite Interface | Cable                            |                                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Red Dot Laser.png](https://learn.kittenbot.cn/2024md_pic/1706865662183-6e16b5f7-0420-4920-96dd-69b814417103.png)                                          | Sugar Cube Red Dot Laser Module | Port3                       | White PH2.0-3Pin Interface Cable | ![1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
-| warning                                                                                                                                                   |                                 |                             |                                  |                                                                                                                                                   |
-| Supports connecting to Port1, Port2, Port3, and Port4.<br />Pay attention to the consistency between the interface and the actual usage when programming. |                                 |                             |                                  |                                                                                                                                                   |
+|                                                                                                                  |                                 | Future Board Lite Interface | Cable                            |                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Red Dot Laser.png](https://learn.kittenbot.cn/2024md_pic/1706865662183-6e16b5f7-0420-4920-96dd-69b814417103.png) | Sugar Cube Red Dot Laser Module | Port3                       | White PH2.0-3Pin Interface Cable | ![1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
+
+warning
+Supports connecting to Port1, Port2, Port3, and Port4.Pay attention to the consistency between the interface and the actual usage when programming.
 
 ## Blocks - Function Description
 
@@ -51,22 +50,27 @@ Use offline download to run the program to see the effect
 
 ## Programming Environment
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Use the Makecode programming environment
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Use the Makecode programming environment
 
 ## Add the Sugar plugin
 
-![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)`<br />`
+![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png) 
+
 Search for Sugar in extensions, click Add
 
 ## Circuit Connection
 
 ![image.png](https://learn.kittenbot.cn/2024md_pic/1709782064213-1d900ed6-6b32-4210-b55d-fb0e94fb1a4a.png)
 
-|                                                                                                                                                 |                                 | Microbit Interface | Cable                            |                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![2Red dot laser.png](https://learn.kittenbot.cn/2024md_pic/1706865662183-6e16b5f7-0420-4920-96dd-69b814417103.png)                               | Sugar Cube Red Dot Laser Module | P0                 | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
-| warning                                                                                                                                         |                                 |                    |                                  |                                                                                                                 |
-| Supports connection to P0, P1, P2, P8, etc.<br /> Pay attention to the consistency of the interface and the actual interface during programming |                                 |                    |                                  |                                                                                                                 |
+|                                                                                                                   |                                 | Microbit Interface | Cable                            |                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![2Red dot laser.png](https://learn.kittenbot.cn/2024md_pic/1706865662183-6e16b5f7-0420-4920-96dd-69b814417103.png) | Sugar Cube Red Dot Laser Module | P0                 | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
+
+warning
+Supports connection to P0, P1, P2, P8, etc. Pay attention to the consistency of the interface and the actual interface during programming
+
+
 
 ## Blocks - Function Description
 

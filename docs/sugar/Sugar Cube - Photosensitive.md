@@ -4,7 +4,8 @@ sidebar_position: 19
 ---
 ## Introduction
 
-Detect the ambient light intensity and return the analog data.`<br />`![image.png](https://learn.kittenbot.cn/2024md_pic/1623392914733-56d16daa-1663-4db5-95ff-1be849bc3634.png)
+Detect the ambient light intensity and return the analog data.
+![image.png](https://learn.kittenbot.cn/2024md_pic/1623392914733-56d16daa-1663-4db5-95ff-1be849bc3634.png)
 
 ## Parameters
 
@@ -22,26 +23,32 @@ Detect the ambient light intensity and return the analog data.`<br />`![image.pn
 
 ## Coding Platform
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Use Makecode as coding platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Use Makecode as coding platform
 
 ## Add Sugar Plugin
 
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
-![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)`<br />`Search Sugar in extensions, click add
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png) 
+Search Sugar in extensions, click add
 
 ## Building Blocks - Function Description
 
 | Serial Number | Building Block Image                                                                        | Building Block Function                                        |
-| ------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 1             | ![image-20240315174137978](https://learn.kittenbot.cn/2024md_pic/image-20240315174137978.png) | Get the numerical value of the light-sensitive sensor (0-1023) |
+| :-----------: | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+|       1       | ![image-20240315174137978](https://learn.kittenbot.cn/2024md_pic/image-20240315174137978.png) | Get the numerical value of the light-sensitive sensor (0-1023) |
 
 ## Circuit Connection
 
 ![image.png](https://learn.kittenbot.cn/2024md_pic/1709784382403-7d8788c6-2a0a-4904-90f8-4e6c1332480f.png)
-|  |  | Microbit Interface | Wiring | `<br />` |
-| --- | --- | --- | --- | --- |
-| ![Light Sensor.png](https://learn.kittenbot.cn/2024md_pic/1709805688485-53f60007-b78a-4c3c-812d-43eaff5d909a.png) | Light Sensor | P0 | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
----------------------------------------------------------------------------------------------
+
+---
+
+|                                                                                                                 |              | Microbit Interface | Wiring                          |                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- | ------------ | :----------------: | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![Light Sensor.png](https://learn.kittenbot.cn/2024md_pic/1709805688485-53f60007-b78a-4c3c-812d-43eaff5d909a.png) | Light Sensor |         P0         | White PH2.0-3Pin Interface Wire | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
+
+---
 
 ## Coding
 
@@ -51,7 +58,9 @@ Detect the ambient light intensity and return the analog data.`<br />`![image.pn
 
 ## Using Kittenblock
 
-Connect the light sensor to the P1 of Robotbit Edu using a 3PIN terminal wire.`<br />`Turn on the Robotbit power supply to see the red light at the bottom of the light sensor module light up (indicating that the module is powered normally)`<br />`![light.png](https://learn.kittenbot.cn/2024md_pic/1623393386604-c30dcf31-3741-46a1-90d0-d0971b6f55ac.png)
+Connect the light sensor to the P1 of Robotbit Edu using a 3PIN terminal wire.
+Turn on the Robotbit power supply to see the red light at the bottom of the light sensor module light up (indicating that the module is powered normally)
+![light.png](https://learn.kittenbot.cn/2024md_pic/1623393386604-c30dcf31-3741-46a1-90d0-d0971b6f55ac.png)
 
 The brightness of the future board screen is filled with the screen, and the filled value is the lightness value 0~255(from black to white). If the ambient light value 0~4095 is to correspond to the screen brightness value 0~255, the mapping block needs to be used to correspond the two intervals one by one.
 Choose to run the program in the online running or offline uploading mode to see the effect

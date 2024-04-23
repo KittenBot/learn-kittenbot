@@ -8,9 +8,7 @@ sidebar_position: 14
 
 ---
 
-| **Signal** | Analog output<br />0~3.3V **Corresponding to the Future Board Lite**0~4096 |
-| ---------------- | --------------------------------------------------------------------------------- |
-|                  |                                                                                   |
+Signal：Analog output0~3.3V **Corresponding to the Future Board Lite**0~4096
 
 ## Module Principle
 
@@ -20,11 +18,15 @@ The sound sensor works based on the principle of piezoelectricity. When a sound 
 
 ![Futublock Lite Mainboard 3 - Copy.png](https://learn.kittenbot.cn/2024md_pic/1698375489067-eb9f3b79-90c7-43a2-8435-7c13864f715e.png)
 
-|                                                                                                                                           |                                | Futublock Lite Interface | Cable                            |                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![Sugar Cube Sound Intensity Module.png](https://learn.kittenbot.cn/2024md_pic/1698304431894-0eb19018-6a88-438c-9981-9f2052b509c5.png)      | Sugar Cube Sound Sensor Module | Port3                    | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
-| warning                                                                                                                                   |                                |                          |                                  |                                                                                                                 |
-| Support connecting to Port1, Port2, Port3, Port4<br />Pay attention to the consistency of interface and actual situation when programming |                                |                          |                                  |                                                                                                                 |
+|                                                                                                                                      |                                | Futublock Lite Interface | Cable                            |                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ------------------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![Sugar Cube Sound Intensity Module.png](https://learn.kittenbot.cn/2024md_pic/1698304431894-0eb19018-6a88-438c-9981-9f2052b509c5.png) | Sugar Cube Sound Sensor Module | Port3                    | White PH2.0-3Pin Interface Cable | ![untitled.100.png](https://learn.kittenbot.cn/2024md_pic/1694663456622-fdd52039-7a0c-451f-96a0-feabdc797516.png) |
+
+warning
+Support connecting to Port1, Port2, Port3, Port4
+Pay attention to the consistency of interface and actual situation when programming
+
+
 
 ## Blocks - Function Description
 
@@ -39,19 +41,16 @@ The sound sensor works based on the principle of piezoelectricity. When a sound 
 
 ## Block 1 - Function Description
 
-Set the color screen to full color pixel mode, and turn off the auto refresh mode. `<br />`
-
+Set the color screen to full color pixel mode, and turn off the auto refresh mode. 
 ![blocksPng-1710578233232](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578233232.png)
 
 warning
-Read the value of sound sensor, and set a threshold, when the value is over the threshold, the screen displays red, otherwise displays green. `<br />`The threshold can be modified according to the actual situation. `<br />`
-
+Read the value of sound sensor, and set a threshold, when the value is over the threshold, the screen displays red, otherwise displays green. 
+The threshold can be modified according to the actual situation.
 ![blocksPng-1710578238076](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578238076.png)
 
 tips
-Display the value of sound sensor on the color screen. `<br />`
-
-![blocksPng-1710578242356](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578242356.png)
+Display the value of sound sensor on the color screen. ![blocksPng-1710578242356](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578242356.png)
 
 ## Program 2 - Complete Program
 
@@ -60,11 +59,13 @@ Display the value of sound sensor on the color screen. `<br />`
 ## Block 2 - Functions Explained
 
 warning
-Set the display to full color pixel mode and turn off auto refresh mode.`<br />`
+Set the display to full color pixel mode and turn off auto refresh mode.
+
 
 ![blocksPng-1710578568972](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578568972.png)
 
-Draw three concentric circles that represent three levels of sound.`<br />`![blocksPng-1710578574198](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578574198.png)
+Draw three concentric circles that represent three levels of sound.
+![blocksPng-1710578574198](https://learn.kittenbot.cn/2024md_pic/blocksPng-1710578574198.png)
 
 > Convert the value from the sound sensor to a value that can be displayed as the radius of a circle on the screen.
 >
@@ -88,7 +89,8 @@ Run the program offline to view the effect
 
 ## Programming Platform
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)`<br />`Programming with MakeCode platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Programming with MakeCode platform
 
 ## Add the Sugar plugin
 

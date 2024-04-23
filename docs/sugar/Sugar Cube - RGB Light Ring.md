@@ -48,7 +48,8 @@ The colored LED lamp bead has a lamp controller directly built-in, in addition t
 
 ## View the preset effect
 
-📑: It is recommended that you use the online mode and click directly to view the preset effect. It is convenient and quick.`<br />`
+📑: It is recommended that you use the online mode and click directly to view the preset effect. It is convenient and quick.
+
 
 ![image-20240316175502825](https://learn.kittenbot.cn/2024md_pic/image-20240316175502825.png)
 
@@ -58,14 +59,15 @@ The colored LED lamp bead has a lamp controller directly built-in, in addition t
 
 ## Coding Platform
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)
-`<br />`Use Makecode coding platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor) 
+Use Makecode coding platform
 
 ## Add plug-in
 
 ![image-20240311154521941](https://learn.kittenbot.cn/2024md_pic/image-20240311154521941.png)
 
-![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png)`<br />`
+![image.png](https://learn.kittenbot.cn/2024md_pic/1709111641678-73b61119-c29c-4b48-add7-375ce9a15935.png) 
+
 Search for sugar in the extension, click add
 
 ![image-20240316173109254](https://learn.kittenbot.cn/2024md_pic/image-20240316173109254.png)
@@ -80,21 +82,21 @@ Search for sugar in the extension, click add
 
 ## Building Blocks - Function Description
 
-| ID | Building Block Image                                                                                                   | Building Block Function                                                             |
-| -- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 1  | ![image-20240316173300763](https://learn.kittenbot.cn/2024md_pic/image-20240316173300763.png)                            | Initialize pins and number of lights                                                |
-| 2  | ![image-20240316173314631](https://learn.kittenbot.cn/2024md_pic/image-20240316173314631.png)                            | Take a range of LEDs                                                                |
-| 3  | ![image-20240316173341142](https://learn.kittenbot.cn/2024md_pic/image-20240316173341142.png)                            | The whole light strip displays rainbow effect                                       |
-| 4  | ![image-20240316173348199](https://learn.kittenbot.cn/2024md_pic/image-20240316173348199.png)                            | The whole light strip displays one color                                            |
-| 5  | ![image-20240316173401215](https://learn.kittenbot.cn/2024md_pic/image-20240316173401215.png)                            | The whole light strip, as a whole, displays columnar, suitable for music spectrum   |
-| 6  | ![image-20240316173738477](https://learn.kittenbot.cn/2024md_pic/image-20240316173738477.png)                            | Display needs to take effect when controlling a small number of lights              |
-| 7  | ![image-20240316173444512](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240316173444512.png) | display                                                                             |
-| 8  | ![image-20240316173454862](https://learn.kittenbot.cn/2024md_pic/image-20240316173454862.png)                            | Customize LED display                                                               |
-| 9  | ![image-20240316173502309](https://learn.kittenbot.cn/2024md_pic/image-20240316173502309.png)                            | Overall movement                                                                    |
-| 10 | ![image-20240316173508197](https://learn.kittenbot.cn/2024md_pic/image-20240316173508197.png)                            | Overall movement (loop), head and tail loop                                         |
-| 11 | ![image-20240316173524903](https://learn.kittenbot.cn/2024md_pic/image-20240316173524903.png)                            | Control a single LED. The light starts from the serial number of 0 as the first one |
-| 12 | ![image-20240316173532964](https://learn.kittenbot.cn/2024md_pic/image-20240316173532964.png)                            | Control the brightness of the light strip                                           |
-| 13 | ![image-20240316173541222](https://learn.kittenbot.cn/2024md_pic/image-20240316173541222.png)                            | Customize the value of LED color                                                    |
+| ID | Building Block Image                                                                        | Building Block Function                                                             |
+| -- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 1  | ![image-20240316173300763](https://learn.kittenbot.cn/2024md_pic/image-20240316173300763.png) | Initialize pins and number of lights                                                |
+| 2  | ![image-20240316173314631](https://learn.kittenbot.cn/2024md_pic/image-20240316173314631.png) | Take a range of LEDs                                                                |
+| 3  | ![image-20240316173341142](https://learn.kittenbot.cn/2024md_pic/image-20240316173341142.png) | The whole light strip displays rainbow effect                                       |
+| 4  | ![image-20240316173348199](https://learn.kittenbot.cn/2024md_pic/image-20240316173348199.png) | The whole light strip displays one color                                            |
+| 5  | ![image-20240316173401215](https://learn.kittenbot.cn/2024md_pic/image-20240316173401215.png) | The whole light strip, as a whole, displays columnar, suitable for music spectrum   |
+| 6  | ![image-20240316173738477](https://learn.kittenbot.cn/2024md_pic/image-20240316173738477.png) | Display needs to take effect when controlling a small number of lights              |
+|    |                                                                                             |                                                                                     |
+| 8  | ![image-20240316173454862](https://learn.kittenbot.cn/2024md_pic/image-20240316173454862.png) | Customize LED display                                                               |
+| 9  | ![image-20240316173502309](https://learn.kittenbot.cn/2024md_pic/image-20240316173502309.png) | Overall movement                                                                    |
+| 10 | ![image-20240316173508197](https://learn.kittenbot.cn/2024md_pic/image-20240316173508197.png) | Overall movement (loop), head and tail loop                                         |
+| 11 | ![image-20240316173524903](https://learn.kittenbot.cn/2024md_pic/image-20240316173524903.png) | Control a single LED. The light starts from the serial number of 0 as the first one |
+| 12 | ![image-20240316173532964](https://learn.kittenbot.cn/2024md_pic/image-20240316173532964.png) | Control the brightness of the light strip                                           |
+| 13 | ![image-20240316173541222](https://learn.kittenbot.cn/2024md_pic/image-20240316173541222.png) | Customize the value of LED color                                                    |
 
 ## Case 1: Controlling a single light
 

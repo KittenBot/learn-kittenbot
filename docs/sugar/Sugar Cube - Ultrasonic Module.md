@@ -17,7 +17,8 @@ Judge the distance between obstacles ahead and the module by transmitting and re
 ## Working Principle of the Module
 
 Sound waves with frequencies higher than 20 kHz are called ultrasonic waves, which feature good directivity and penetration capability, especially in water, where they can propagate over longer distances. To facilitate the study and utilization of ultrasonic waves, people have designed many types of ultrasonic generators, which vary in the way they generate ultrasonic waves, ranging from electrical to mechanical methods, and therefore have different applications. Each type of generator has its own application scenarios, but at present, the most widely used type is the piezoelectric ultrasonic generator.
-The key component of a piezoelectric ultrasonic generator is the piezoelectric chip inside, which mainly utilizes the resonance of the piezoelectric chip to work. There are two piezoelectric chips and a resonant plate inside the generator. When a pulse signal is applied between the two electrodes of the generator, the piezoelectric chip will vibrate when the frequency of the applied signal is equal to the frequency of the piezoelectric chip, and it will also drive the resonant plate to vibrate. This will generate ultrasonic waves, which is the transmitting end of the ultrasonic generator. However, if there is no applied pulse signal between the two electrodes of the generator and the resonant plate receives the transmitted ultrasonic waves, the piezoelectric chip will be forced to vibrate, and the mechanical energy generated will be converted into an electrical signal. This is the receiving end of the ultrasonic generator.`<br />`![image.png](https://learn.kittenbot.cn/2024md_pic/1706860900635-982f319c-fe30-4659-b50b-9ce326da76ac.png)
+The key component of a piezoelectric ultrasonic generator is the piezoelectric chip inside, which mainly utilizes the resonance of the piezoelectric chip to work. There are two piezoelectric chips and a resonant plate inside the generator. When a pulse signal is applied between the two electrodes of the generator, the piezoelectric chip will vibrate when the frequency of the applied signal is equal to the frequency of the piezoelectric chip, and it will also drive the resonant plate to vibrate. This will generate ultrasonic waves, which is the transmitting end of the ultrasonic generator. However, if there is no applied pulse signal between the two electrodes of the generator and the resonant plate receives the transmitted ultrasonic waves, the piezoelectric chip will be forced to vibrate, and the mechanical energy generated will be converted into an electrical signal. This is the receiving end of the ultrasonic generator.
+![image.png](https://learn.kittenbot.cn/2024md_pic/1706860900635-982f319c-fe30-4659-b50b-9ce326da76ac.png)
 
 ## **Ultrasonic Distance Measurement Principle**
 
@@ -67,7 +68,8 @@ Using ultrasonic for distance measurement and controlling RGB lights
 
 ## Programming Platform
 
-[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)  Use the Makecode program platform
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/#editor)  
+Use the Makecode program platform
 
 ## Adding the Sugar plugin
 
