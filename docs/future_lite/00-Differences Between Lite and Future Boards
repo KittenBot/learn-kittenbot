@@ -1,0 +1,117 @@
+---
+title: Future Board Lite vs. Future Board
+sidebar_position: 14
+---
+
+
+## Introduction
+Since the launch of XiaoMiao Future Board a few years ago, it has been widely praised by students and teachers for its performance configuration and ease of use. The opportunity for the launch of Future Board at that time was precisely that everyone liked Microbit, but the performance and display of Microbit could not meet the needs of the classroom and the project. Future Board complements the advanced needs of Microbit, provides color screen display, Chinese display, integrates more sensors, and opens up the process from graphical to MicroPython teaching. At the same time, it has also launched配套生态, such as Fangtang electronic system, RobotbitEDU, Fangtang box and other useful electronic modules and expansion boards. 
+In mid-2023, Xiaomian subsequently launched Future Board Lite, which is an upgraded version of Future Board. It is wrapped in a plastic shell, has bright colors, is small in size, and is easy to hold. Even if it is placed on the table as an ornament, it is a pleasure to watch. It removes the geek attributes of the Future Board, and the overall design concept incorporates more teaching and research concepts for large classes, solving the lightweight needs of teaching and small projects.
+I believe everyone has read the detailed introduction of Future Board Lite. Below, XiaoMiao will bring you an analysis of the difference between Future Board Lite and Future Board, so that everyone can understand Future Board Lite.
+
+
+
+
+
+## Parameter Comparison
+| Future Board Lite | VS | Future Board |
+|---|---|---|
+| ESP32-S3-WROOM | Chip Module | ESP32-WROVER-B |
+| Xtensa® Dual-Core 32-Bit LX7 Microprocessor | Kernel | Xtensa® Dual-Core 32-Bit LX6 Processor |
+| 240 MHz | Main Frequency | 240 MHz |
+| 8M | Flash | 4M |
+| 8M | PSRAM | 8M |
+| 2.4G WIFI, Bluetooth, Networking Support | Wireless | 2.4G WIFI, Bluetooth, Networking Support |
+| Fully Enclosed, with Pin Structure | Enclosure Type | Semi-Enclosed |
+| Color Screen 160x128 | Screen | Color Screen 160x128 |
+| Type-C | Programming Data Interface | Type-C |
+| U Disk Form for File Copying (Microbit Mode) | Program Download Format | Serial Port Download |
+| PH2.0 3PIN, 4PIN Interface | Programming Interface | 40PIN Gold Finger Standard, Requires Expansion Board |
+| 2 Available Serial Ports | Serial Ports | 1 Available Serial Port |
+| Built-in 2 Motor Interfaces | Motor Interfaces | None, Requires Expansion Board |
+| 4 | Battery Indicator | None |
+| Built-in Lithium Battery | Battery | External Lithium Battery Pack |
+| None | Expansion Slot | TF Card Slot |
+| Digital Silicon Microphone | Microphone | Digital Silicon Microphone |
+| Yes | Light Sensor | Yes |
+| 3 | Programming Buttons | 2 |
+| 3 | RGB Lights | 3 |
+| Yes | Buzzer | Yes |
+| Yes | Gyroscope | Yes |
+| None | Compass | Yes |
+
+
+
+
+
+## Distinctive Summary
+1. Lite chip performance has been improved, and the memory capacity is twice as large as before.
+2. Lite retains the original commonly used sensors, incorporates RobotbitEDU features, fool-proof interface terminals directly lead out, built-in battery, built-in motor drive, and can even be simply understood as the future board Lite ≈ future board + low-profile version Robotbit
+3. Lite downloads in the form of copying files from a USB flash drive, which is faster than downloading the future board serial port. Even the py program in Lite can be directly opened, edited and saved without relying on software.
+4. Due to the fast transmission speed of the USB flash file system, the Lite library file is added to version control. When connected to the software, the library can be kept up to date without user operation.
+
+
+
+
+
+## 1. Performance Improvement
+As an ordinary user, it is difficult to perceive the performance improvement brought by the chip. But we can clearly feel the improvement from the interface.
+In the future, there will be only one available serial port on the board. As the Sugar Cube electronic system expands, two serial port modules may be required in some project production. At this time, the advantage of Lite's dual serial ports comes into play.
+Lite now introduces 4 programming 3PIN interfaces, each of which supports PWM output and AnalogIN, and users do not need to remember the complex instructions of the pins.
+![f8d98f987d837bf8d871f1f17c3674a2.jpg](https://learn.kittenbot.cn/2024md_pic/1689410853063-62e41cdd-c995-4b62-84c6-56a0f540130c.jpeg)
+
+
+
+
+
+## 2.Integrated design
+Future Board Lite has a higher level of integration, integrating most of the onboard sensors of the previous Future Board, integrating 3PIN and 4PIN programming interfaces, built-in 450mAh lithium battery, two-way small motor drive interface, eliminating the need for RobotbitEDU. Although the battery capacity is smaller than 18650, it is sufficient for classroom teaching and small project making.
+![fce55632e2c955cd4795601f68611801.jpg](https://learn.kittenbot.cn/2024md_pic/1689410868588-35d5fe21-5443-44a8-9221-5e31c1de6fc2.jpeg)
+
+
+
+
+
+## 3. Structural Shell
+The motherboard uses a full plastic shell, which looks like a miniature version of the future board + sugar cube box. The whole conforms to the LEGO standard size, with LEGO pins on the left, right and bottom for quick splicing
+![d427c590226afeff4d905a50af11a6e0.jpg](https://learn.kittenbot.cn/2024md_pic/1689410901269-496bb683-40a9-461c-8328-3d7494b48da0.jpeg)
+
+![ba4fab92474c799030895bfb07cab0a7.jpg](https://learn.kittenbot.cn/2024md_pic/1689410888426-2992bfd0-3028-445a-ac23-d4a746ac7049.jpeg)
+
+
+
+
+
+## 4. Color Screen Form
+Future Board Lite has the same color screen display as Future Board, and supports geometric graphics, Chinese-English character strings. In order to take care of Microbit's dot matrix operation, 5x5, 8x8 simulated dot matrixes are added, so that beginners can fully take care of it when learning.
+
+![lAHPJx8Z2DY86vnNArTNArQ_692_692.gif](https://learn.kittenbot.cn/2024md_pic/1689410982677-8ea0bfa9-a6c6-459d-90c6-8c774a8a1f7c.gif)
+
+
+
+
+
+## 5. File System
+When connected to a computer, the Future Board Lite appears as a USB flash drive, enabling faster program file transfer speeds.
+
+The computer can directly access programs saved on the mainboard, allowing for import and export of programs. You can even program using Notepad, save the text, and the program will run immediately.
+
+![image.png](https://learn.kittenbot.cn/2024md_pic/ tenbot.cn/2024md_pic/1689403031068-e53813f6-34d4-4c79-bb49-b360e0ec0df2.png)
+
+
+
+
+
+## 6. Library Management
+The underlying libraries and function libraries of Futureboard Lite are separate, and the function libraries exist in the form of folders, and version management is added. Users can use Kittenblock to use the synchronization function library without perceiving it.
+![image.png](https://learn.kittenbot.cn/2024md_pic/1689404239475-2393d4a1-8988-4f6d-978b-f7dbf05e4ed6.png)
+
+
+
+
+
+## Epilogue
+Future Kit Lite and Future Kit share common features, such as wireless communication, MicroPython, and multi-program running. Due to space limitations, these will not be discussed in detail here. For more information on Future Kit Lite, please visit [here](https://www.yuque.com/kittenbot/hardwares/future_lite). Join us and let's play with Future Kit Lite.
+
+
+
