@@ -1,5 +1,3 @@
-# MicroCode and Jacdac Modules
-
 ## Introduction to Jacdac
 
 Microsoft's Jacdac (Joint Asynchronous Communications, Device Access and Control) ecosystem is an open-source hardware and software platform designed for developers and educators, aiming to simplify connectivity and communication among IoT devices. Jacdac adopts a modular design, facilitating seamless interconnection and collaboration among various sensors, actuators, and microcontrollers through standardized interfaces and protocols. The system supports plug-and-play functionality, eliminating the need for complex configurations, enabling users to rapidly build and test their IoT projects.

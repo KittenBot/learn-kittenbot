@@ -1,5 +1,3 @@
-# Microcode Dice
-
 ## Project Introduction
 
 Using the Microbit's gyroscope for motion detection and LED matrix for number display, this project creates a dice that shows different numbers when shaken.
