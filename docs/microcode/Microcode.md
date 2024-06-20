@@ -2,6 +2,8 @@
 
 ## What is MicroCode?
 
+![image-20240620150801501](Microcode.assets/image-20240620150801501.png)
+
 MicroCode is a graphical programming platform created by Microsoft specifically for young children. It enables programming on the Microbit V2 without the need for a computer or tablet. By inserting the Microbit into a dedicated expansion board with a color screen, children can complete programming creations by writing icon-based logic directly on the board. MicroCode offers a visual programming model based on Kodu, suitable for children aged 6-9. This document will introduce the features, basic usage, precautions, and a quick start guide for MicroCode.
 
 ## Features
