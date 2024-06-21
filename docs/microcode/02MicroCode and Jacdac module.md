@@ -24,13 +24,13 @@ Type: Input Module
 
 Function: Detects whether buttons are pressed or released
 
-![image-20240619143450672](MicroCode and Jacdac module.assets/image-20240619143450672.png)
+![image-20240619143450672](MicroCodeAndJacdacModule.assets/image-20240619143450672.png)
 
 Programming Example:
 
 When two mechanical buttons are connected, pressing mechanical button 1 and mechanical button 2 produce different sounds.
 
-![image-20240619135502380](MicroCode and Jacdac module.assets/image-20240619135502380.png)
+![image-20240619135502380](MicroCodeAndJacdacModule.assets/image-20240619135502380.png)
 
 ## Jacdac Rotary Button
 
@@ -38,13 +38,13 @@ Type: Input Module
 
 Function: Detects button press, left rotation, and right rotation feedback
 
-![image-20240619143425270](MicroCode and Jacdac module.assets/image-20240619143425270.png)
+![image-20240619143425270](MicroCodeAndJacdacModule.assets/image-20240619143425270.png)
 
 Programming Example:
 
 When rotated left or right, display different directional arrows on the LED matrix; when pressed, display a smiling face.
 
-![image-20240619140015907](MicroCode and Jacdac module.assets/image-20240619140015907.png)
+![image-20240619140015907](MicroCodeAndJacdacModule.assets/image-20240619140015907.png)
 
 ## Jacdac Slider
 
@@ -52,13 +52,13 @@ Type: Input Module
 
 Function: Detects slider position (5 positions, 1~5)
 
-![image-20240619143408723](MicroCode and Jacdac module.assets/image-20240619143408723.png)
+![image-20240619143408723](MicroCodeAndJacdacModule.assets/image-20240619143408723.png)
 
 Programming Example:
 
 When the slider is moved to different positions, display different numerical values on the LED matrix.
 
-![image-20240619135038261](MicroCode and Jacdac module.assets/image-20240619135038261.png)
+![image-20240619135038261](MicroCodeAndJacdacModule.assets/image-20240619135038261.png)
 
 ## Jacdac Light Sensor
 
@@ -66,13 +66,13 @@ Type: Input Module
 
 Function: Detects brightness levels (5 levels, 1~5)
 
-![image-20240619143303254](MicroCode and Jacdac module.assets/image-20240619143303254.png)
+![image-20240619143303254](MicroCodeAndJacdacModule.assets/image-20240619143303254.png)
 
 Programming Example:
 
 When the magnet detects weak light intensity, display a crying face on the LED matrix; when the light sensor detects strong light intensity, display a smiling face.
 
-![image-20240619140602067](MicroCode and Jacdac module.assets/image-20240619140602067.png)
+![image-20240619140602067](MicroCodeAndJacdacModule.assets/image-20240619140602067.png)
 
 ## Jacdac Magnet Sensor
 
@@ -80,13 +80,13 @@ Type: Input Module
 
 Function: Detects magnetic field strength (5 levels, 1~5)
 
-![image-20240619143245388](MicroCode and Jacdac module.assets/image-20240619143245388.png)
+![image-20240619143245388](MicroCodeAndJacdacModule.assets/image-20240619143245388.png)
 
 Programming Example:
 
 When the magnet sensor detects a weak magnetic field, display a crying face on the LED matrix; when it detects a strong magnetic field, display a smiling face.
 
-![image-20240619140823702](MicroCode and Jacdac module.assets/image-20240619140823702.png)
+![image-20240619140823702](MicroCodeAndJacdacModule.assets/image-20240619140823702.png)
 
 ## Jacdac RGB Ring
 
@@ -94,13 +94,13 @@ Type: Output Module
 
 Function: Displays various colors or effects with RGB LEDs
 
-![image-20240619143351817](MicroCode and Jacdac module.assets/image-20240619143351817.png)
+![image-20240619143351817](MicroCodeAndJacdacModule.assets/image-20240619143351817.png)
 
 Programming Example:
 
 When pressing buttons A and B, display a rainbow effect and then turn off.
 
-![image-20240619123212672](MicroCode and Jacdac module.assets/image-20240619123212672.png)
+![image-20240619123212672](MicroCodeAndJacdacModule.assets/image-20240619123212672.png)
 
 ## Jacdac Hub
 
@@ -108,4 +108,4 @@ Type: Connector Module
 
 Function: Extends and splits connections
 
-![image-20240619143530817](MicroCode and Jacdac module.assets/image-20240619143530817.png)
+![image-20240619143530817](MicroCodeAndJacdacModule.assets/image-20240619143530817.png)
